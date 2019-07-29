@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 201907291528
-! Title: Distraction Blocker List
+! Title: distractionblock
 ! Last modified: 29 Jul 2019 15:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://www.benkazez.com/distractionblock/
