@@ -1,8 +1,12 @@
+[Adblock Plus 2.0]
 ! Version: 201907291528
 ! Title: Distraction Blocker List
 ! Last modified: 29 Jul 2019 15:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://www.benkazez.com/distractionblock/
+! Please report any unblocked distractions or problems:
+! GitHub issues: https://github.com/easylist/easylist/issues
+! GitHub pull requests: https://github.com/easylist/easylist/pulls
 
 techcrunch.com##DIV[class="toaster section"]
 www.meetup.com##DIV[class="alert-bar transitionable"]
@@ -118,7 +122,6 @@ www.facebook.com##LI[id="u_jsonp_3_23"][class="fbTimelineUnit fbTimelineTwoColum
 economix.blogs.nytimes.com##SECTION[id="whats-next"]
 www.expedia.com##LI[class="seats-left"]
 www.facebook.com##DIV[class="_4-u2 _5m6w"]
-twitter.com##DIV[class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet    promoted-tweet    has-cards  has-native-media  with-media-forward     auto-expanded     media-forward with-social-proof"]
 www.macrumors.com##DIV[id="mr-pushbanner"][class="alert-push-notifications"]
 www.facebook.com##DIV[id="u_a_0"][class="mvs _5j5u _5j5v _5q7o clearfix"]
 www.facebook.com##DIV[id="event_related_events"]
@@ -172,8 +175,6 @@ www.okcupid.com##DIV[class="left_column"]
 www.okcupid.com##P[id="pb_alist_pb_36"][class="page_banner right pink"]
 www.okcupid.com##DIV[id="action_bar_interior"][class="clearfix"]
 www.okcupid.com##DIV[id="message_delete_intro"][class="oktooltip on_left has_heading light has_close open no_open_animation"]
-
-
 www.pinterest.com##DIV[class="UnauthBanner invert Module"]
 www.nytimes.com##OL[class="ribbon-menu"]
 www.kayak.com##DIV[class="inlineAdRow"]
