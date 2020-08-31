@@ -6,8 +6,8 @@ Filter list for AdBlock, AdBlock Plus, and uBlock Origin that attempts to block 
 * Urgency messaging (3 rooms left, 25 users are looking at this, etc.)
 * Newsletter signup encouragement
 
-In general, any feature that is added to a site based on A/B tests and for the main purpose of lengthening (or increasing the frequency of) user sessions - or increasing purchase/registration/subscription conversion rates - should be blocked.
+My goal is to block any feature that exists mainly to make people come to the site more often, stay longer, or buy more things.
 
-The list is currently tailored to my own browsing style, and I would welcome any pull requests or issue reports.
+I based the filter list on my own browsing, so please send pull requests or report issues for anything that doesn't work as you expect.
 
-Single-click install via www.benkazez.com/distractionblock
+Click to install at www.benkazez.com/distractionblock
