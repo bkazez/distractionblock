@@ -8,6 +8,6 @@ Filter list for AdBlock, AdBlock Plus, and uBlock Origin that attempts to block 
 
 My goal is to block any feature that exists mainly to make people come to the site more often, stay longer, or buy more things.
 
-I based the filter list on my own browsing, so please send pull requests or report issues for anything that doesn't work as you expect.
+Please send pull requests or report issues for anything that doesn't work as you expect.
 
 Click to install at www.benkazez.com/distractionblock
