@@ -1,602 +1,1222 @@
 [Adblock Plus 2.0]
-! Version: 201907291528
+! Version: 2019 07 29 1528
 ! Title: distractionblock
 ! Last modified: 29 Jul 2019 15:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://www.benkazez.com/distractionblock/
-! Please report any unblocked distractions or problems:
 ! GitHub issues: https://github.com/easylist/easylist/issues
 ! GitHub pull requests: https://github.com/easylist/easylist/pulls
 
-techcrunch.com##DIV[class="toaster section"]
-www.meetup.com##DIV[class="alert-bar transitionable"]
-www.theguardian.com##UL[class="component trackable-component undocked-share share-links floating"]
-www.google.com##DIV[id="sbfrm_l"]
-www.google.com##DIV[class="fbar"]
-www.google.com##LI[id="ab_ctl_ps"]
-www.google.com##DIV[id="gbwa"][class="gb_m gb_ya gb_g"]
-www.yelp.com##DIV[id="write-next-review"][class="ysection clearfix no-js-hidden"]
-www.pinterest.com##DIV[class="message messageUnauth"]
-www.slate.com##DIV[class="rr-block"]
-www.slate.com##DIV[class="social social-with-popup"]
-www.huffingtonpost.com##DIV[id="sidebar_right"][class="grid third flush_top"]
-www.facebook.com##[class="fbTimelineUnit fbTimelineTwoColumn clearfix recentActivityContainer"]
-www.facebook.com##[id="appsNav"]
-www.facebook.com##[id="interestsNav"]
-www.facebook.com##[id="listsNav"]
-www.facebook.com##[id="groupsNav"]
-www.facebook.com##[id="pagesNav"]
-www.facebook.com##[class="clearfix fbRemindersStory"]
-www.facebook.com##DIV[class="_5ahz"]
-www.nytimes.com##DIV[id="upNext"]
-www.facebook.com##DIV[class="uiOverlay uiContextualDialog uiContextualDialogArrowRight"]
-www.facebook.com##DIV[id="NonAdminInvite"][class="nonAdminInviteContainer"]
-lolmythesis.com##[id="tumblr_teaser_follow"]
-techcrunch.com##DIV[class="toaster section"]
-www.meetup.com##DIV[class="alert-bar transitionable"]
-www.businessweek.com##DIV[class="slideout tracked"]
-www.yahoo.com##DIV[class="sidebar-container right"]
-www.yahoo.com##DIV[class="share-button-container Grid-U NoTextDecoration"]
-www.nytimes.com##SECTION[class="whats-next nocontent"]
-www.nytimes.com##ASIDE[class="marginalia most-emailed-marginalia nocontent"]
-www.nytimes.com##NAV[class="ribbon-page-navigation previous"]
-www.nytimes.com##NAV[class="ribbon-page-navigation next"]
-www.nytimes.com##DIV[id="sharetools-story"][class="sharetools theme-classic sharetools-init"]
-www.nytimes.com##LI[class="user-subscriptions"]
-www.nytimes.com##BUTTON[class="button comments-button  theme-speech-bubble"]
-www.facebook.com##DIV[id="chatFriendsOnline"][class="isOffline"]
+! TODO: Categorize
 conversionxl.com##DIV[id="scrolltriggered"]
-www.bbc.com##ASIDE[id="secondary-column"]
-www.bbc.com##DIV[class="social-tools js-enabled fixed"]
-www.newelectronics.co.uk##DIV[id="sharebox"]
-www.facebook.com##DIV[class="home_right_column tickerOnTop"]
-www.facebook.com##A[id="u_0_18"][class="sortLink _p"]
-www.facebook.com##SPAN[class="count _5wk0 uiSideNavCount"]
-www.newelectronics.co.uk##DIV[class="right-column"]
-www.newelectronics.co.uk##DIV[id="ctl00_Footer_uiFooter_uiEzinePanel"]
-www.newelectronics.co.uk##DIV[id="footer"]
-www.google.com##BUTTON[id="gbqfbb"][class="gbqfba"][name="btnI"]
-www.google.com##DIV[class="fbar fmulti"]
-www.google.com##DIV[class="gb_Ab gb_j gb_Hb gb_l"]
-www.google.com##A[class="gb_r gb_g"]
-www.google.com##IMG[id="hplogo"]
-www.google.com##BUTTON[id="gbqfba"][class="gbqfba"][name="btnK"]
-www.google.com##A[class="gb_r gb_P gb_j gb_L"]
-www.google.com##SPAN[class="gb_g"]
-www.google.com##TD[class="b navend"]
-www.google.com##DIV[id="brs"]
-www.google.com##DIV[class="crc"]
-en.wikipedia.org##DIV[id="mw-panel"][class="collapsible-nav"]
-en.wikipedia.org##DIV[id="footer"]
-en.wikipedia.org##DIV[id="p-views"][class="vectorTabs"]
-www.nytimes.com##LI[class="item-social"]
-www.nytimes.com##LI[class="item-weather"]
-www.fastmail.fm##DIV[id="usageInfo"][class="usage0-50"]
-bits.blogs.nytimes.com##BUTTON[class="button comments-button  theme-speech-bubble"]
-www.facebook.com##DIV[id="u_y_0"][class="mvs _5j5u _5j5v _5q7o clearfix"]
-insights.wired.com##DIV[id="divStayTopLeft"]
-www.facebook.com##DIV[class="pal megaphone_box"]
-www.contemplativecomputing.org##DIV[class="trackbacks"]
-www.contemplativecomputing.org##DIV[class="comments"]
-www.psychologytoday.com##DIV[class="blogger-quote blogger-quote-block_1"]
-www.psychologytoday.com##DIV[id="inline-content-bottom-left"]
-www.linkedin.com##DIV[class="module-box "]
-www.linkedin.com##DIV[id="author-header"][class="module-box"]
-www.contemplativecomputing.org##P[class="entry-footer-info"]
-www.google.com##DIV[class="gb_Bb gb_j gb_Ib gb_l"]
-www.facebook.com##DIV[id="u_0_2f"][class="_5jmm _5pat _5uch _i6m _5y7m"]
-bits.blogs.nytimes.com##NAV[id="ribbon"]
-appadvice.com##IFRAME[id="dsq-2"]
-twitter.com##DIV[class="users related"]
-www.nytimes.com##DIV[class="overlay"]
-www.lifehack.org##DIV[id="popular_post_sticky"]
-www.lifehack.org##DIV[class="footer-related-post"]
-www.lifehack.org##NAV[class="default_prevnext below-footer-related-post"]
-www.lifehack.org##NAV[class="default_prevnext"]
-www.lifehack.org##ASIDE[id="comments"][class="hidden-phone"]
-www.lifehack.org##ASIDE[class="popular-header row"]
-www.mediapost.com##DIV[id="most_read"][class="sidebar_section"]
-www.washingtonpost.com##DIV[id="post_most"]
-www.washingtonpost.com##DIV[id="menu-share-float"][class="bg-white none show-for-large"]
-www.psmag.com##DIV[class="span4"]
-www.theatlantic.com##SECTION[id="module-most-popular"][class="new-module"]
-www.theatlantic.com##SECTION[id="module-just-in"][class="new-module"]
-www.theatlantic.com##DIV[class="module-banner rotating-promo rotating-promo-num-0 right-rail-promo"]
-www.theatlantic.com##SECTION[id="social-trending-module"]
-www.theatlantic.com##SECTION[id="more-in-module"][class="new-module"]
-www.theatlantic.com##DIV[class="promoColumn"]
-www.slate.com##DIV[id="up-next-box"][class="row up-next"]
-www.slate.com##SECTION[class="large-tiles tiles"]
-www.marketingcharts.com##DIV[id="subscribe"][class="row"]
-www.linkedin.com##DIV[id="feed-wrapper"]
-www.nytimes.com##LI[class="collection news-collection"]
-www.yelp.com##UL[class="iconed-list action-link-list"]
-www.fastcompany.com##DIV[id="sidebar-follow"]
-www.theatlantic.com##UL[class="skybox"]
-www.theatlantic.com##DIV[class="earthbox"]
-blog.petflow.com##DIV[id="secondary"][class="widget-area"]
-dealbook.nytimes.com##SECTION[id="whats-next"]
-www.linkedin.com##DIV[class="no-number hopscotch-bubble animated"]
-drive.google.com##SPAN[id="gbgs1"][class="gbts"]
-www.facebook.com##LI[id="u_jsonp_3_23"][class="fbTimelineUnit fbTimelineTwoColumn clearfix"]
-economix.blogs.nytimes.com##SECTION[id="whats-next"]
-www.expedia.com##LI[class="seats-left"]
-www.facebook.com##DIV[class="_4-u2 _5m6w"]
-www.macrumors.com##DIV[id="mr-pushbanner"][class="alert-push-notifications"]
-www.facebook.com##DIV[id="u_a_0"][class="mvs _5j5u _5j5v _5q7o clearfix"]
-www.facebook.com##DIV[id="event_related_events"]
-99u.com##DIV[id="sidebar"][class="wide-sidebar"]
-www.nytimes.com##SECTION[id="whats-next"]
-www.nytimes.com##ASIDE[class="marginalia most-emailed-marginalia nocontent robots-nocontent"]
+deadline.com##.article-sidebar.pmc-a-grid-item.a-space-children-vertical.a-space-children--2
+deadline.com##.pmc-u-margin-b-0.pmc-u-background-white.u-box-shadow-medium.pmc-u-padding-a-1.a-wrapper
+deadline.com##.related-story.u-border-l-8.u-border-color-brand-red.pmc-u-margin-l-2.pmc-u-margin-t-2.pmc-u-margin-b-2.pmc-u-padding-l-1
 dealbook.nytimes.com##DIV[id="SponLink"][class="text-ad bottom-left-ad"]
-online.wsj.com##DIV[class="module rich-media-inset inset-box inset-group view   "]
-www.facebook.com##DIV[id="mobile_mirror_banner"][class="fbPageBanner uiBoxYellow noborder"]
-www.wired.com##DIV[id="post-nav"][class="fixed expanded visible"]
-stackoverflow.com##DIV[id="hot-network-questions"][class="module"]
-www.booking.com##DIV[class="notice-item-wrapper"]
-hotel.vueling.com##DIV[class="notice-item-wrapper"]
-www.wired.com##IFRAME[id="dsq-2"]
-stackoverflow.com##DIV[class="newsletter-anon"]
-www.booking.com##DIV[class="lock_price"]
-www.booking.com##SPAN[class="lastbooking jq_tooltip"]
-www.hostelworld.com##DIV[class="persuasiveMsg"]
-www.booking.com##TABLE[id="msg_low_avail"]
-www.booking.com##A[class="jq_tooltip urgency_link scarcity_color"]
-www.independent.co.uk##DIV[class="column-2"]
-www.independent.co.uk##DIV[class="widget code html lpr-widget mini"]
-www.facebook.com##DIV[class="_4-u2 mbm _la"]
-www.kijiji.it##DIV[id="vip-instant-message"]
-www.airbnb.com##A[href="/invite?r=3"]
-www.huffingtonpost.com##SECTION[class="most-popular"]
-www.linkedin.com##DIV[class="endorse-connections"]
-whitetailsoftware.com##DIV[class="rb-popup black-popup"]
-lifehacker.com##SPAN[class="annotateButton js_text-annotate text-annotation-button icon notranslate"]
-www.google.com##DIV[class="gb_Ua gb_Ca"]
-www.linkedin.com##DIV[id="control_gen_17"][class="recommendation"]
-secure-www.zappos.com##H5[class="stockMsg"]
-www.linkedin.com##SPAN[id="header-messages-count"][class="gem "]
-www.facebook.com##DIV[id="pagelet_trending_tags_and_topics"][class="pagelet"]
-wwws.mint.com##DIV[id="module-advice"][class="module module-advice clearfix"]
-www.facebook.com##DIV[class="_2bex"]
-www.okcupid.com##DIV[id="user_pane"][class="user_pane hasspotlight okphotos expanded control_group rush_hour hastips nothumbs doublebuttons noimp comfree rows_3 notrial lackspromo noreport"]
-www.okcupid.com##IMG[src="http://cdn.okccdn.com/media/img/template/image.png"]
-www.okcupid.com##DIV[id="recent_activity_block"]
-www.okcupid.com##DIV[id="improve_your_matches"][class="inline block"]
-www.okcupid.com##SPAN[id="nav_visitors_badge"][class="badge"]
-www.okcupid.com##DIV[class="upgrade_ad delete_message storage"]
-www.okcupid.com##DIV[id="visit_button"][class="oknotice_grey"]
-www.okcupid.com##SPAN[id="nav_ratings_badge"][class="badge"]
-www.okcupid.com##SECTION[id="filter_controls"]
-www.okcupid.com##DIV[class="upgrade_ad filters"]
-www.okcupid.com##DIV[id="user_pane"]
-www.okcupid.com##DIV[class="upgrade_ad delete_message receipts"]
-www.google.com##[href="https://plus.google.com/u/0/notifications/all?hl=en"]
-www.okcupid.com##DIV[class="left_column"]
-www.okcupid.com##P[id="pb_alist_pb_36"][class="page_banner right pink"]
-www.okcupid.com##DIV[id="action_bar_interior"][class="clearfix"]
-www.okcupid.com##DIV[id="message_delete_intro"][class="oktooltip on_left has_heading light has_close open no_open_animation"]
-www.pinterest.com##DIV[class="UnauthBanner invert Module"]
-www.nytimes.com##OL[class="ribbon-menu"]
-www.kayak.com##DIV[class="inlineAdRow"]
-www.kayak.com##SPAN[id="footerMenu"]
-www.kayak.com##A[id="more-link"]
-www.kayak.com##A[id="kpack-link"]
-www.kayak.com##A[id="deals-link"]
-www.linkedin.com##DIV[class="premium-upsell animate"]
-www.pinterest.com##DIV[class="UnauthBanner ajax Module"]
-www.pinterest.com##DIV[class="Nags Module"]
-www.facebook.com##DIV[id="pagelet_advertiser_panel"][class="pagelet"]
-www.onepagecrm.com##DIV[id="habla_topbar_div"][class="habla_topbar_div_normal hbl_pal_title_fg hbl_pal_title_bg habla_topbar_div_compressed "]
-grist.org##SECTION[class="home-featured-items"]
-offbeat.topix.com##SECTION[class="str-two-up-widget"]
-offbeat.topix.com##ASIDE[class="str-sidebar"]
-www.reshareworthy.com##UL[class="sidebar_list"]
-www.facebook.com##DIV[id="u_ps_0_0_0"][class="_4-u2 mbm _5jmm _5pat _5v3q _5x16 _2l4l"]
-www.facebook.com##DIV[class="_5g-l"]
-thecolbertreport.cc.com##DIV[id="oo_tab_1"][class="oo_tab_right_1"]
-www.booking.com##DIV[class="recHotel js_recHotel"]
-secure.booking.com##DIV[class="notice-item-wrapper"]
-secure.booking.com##DIV[id="bp_sidebar_external_proof"]
-www.linkedin.com##DIV[class="recommendation"]
-www.linkedin.com##UL[class="nav premium-nav"]
-www.facebook.com##A[id="demetricatorlink"]
-www.theonion.com##DIV[class="player"]
-www.theonion.com##SECTION[id="video-recirc"]
-www.theonion.com##NAV[id="pagination"][class="pagination"][name="article:morenews"]
-mic.com##SECTION[id="social-prompt-growler-survey"]
-www.nytimes.com##ASIDE[class="marginalia collection-marginalia collection collection-type-column collection-tone-opinion collection-section-opinion collection-theme-latest-headlines nocontent robots-nocontent"]
-epfilms.tv##DIV[id="flybx_box"]
-www.facebook.com##DIV[id="u_14_0"][class="_4-u2 mbm _la _5jmm"]
-www.thrillist.com##DIV[id="content-right"]
-www.thrillist.com##DIV[class="related-container related-items-3x desktop first-position"]
-www.linkedin.com##DIV[class="guided-edit"]
-www.airbnb.com##DIV[class="urgency-panel"]
-www.amazon.com##DIV[class="huc-upsell"]
-www.amazon.com##DIV[id="rhf"][class="copilot-secure-display"]
-www.amazon.com##DIV[id="hlbcc"]
-www.contactually.com##DIV[id="intercom-container"][class="intercom-container intercom-reset"]
-bits.blogs.nytimes.com##SECTION[id="whats-next"][class="whats-next nocontent robots-nocontent"]
-www.muscleandfitness.com##DIV[id="gigya-sharebar"]
-nutritiondata.self.com##SECTION[class="related-section"]
-www.gearslutz.com##DIV[id="headerSpacerAd"]
-www.bhphotovideo.com##DIV[class="scShipTime js-scShipTime"]
-www.airbnb.com##DIV[id="similar-listings"]
-www.gearslutz.com##DIV[id="discussed_products"]
-www.gearslutz.com##DIV[id="SupportUsSide"]
-www.gearslutz.com##DIV[id="adCarousel"]
-www.facebook.com##DIV[class="ego_column pagelet _y92 _5qrt _1snm"]
-www.facebook.com##DIV[id="GroupsRHCSuggestionSection"]
-www.okcupid.com##DIV[id="event_display_container"]
-www.booking.com##SPAN[class="sold_out_property"]
-www.booking.com##SPAN[class="only_x_left sr_rooms_left_wrap "]
-www.booking.com##[class="urgency_link scarcity_color jq_tooltip"]
-www.booking.com##DIV[id="compset_1297415"][class="sr_compset"]
-www.booking.com##DIV[class="maps-iw-notification-inner"]
-www.booking.com##SPAN[class="xroomsleft urgency_message_red"]
-www.airbnb.com##DIV[class="price-amount-container"]
-www.airbnb.com##DIV[class="book-it__price-amount h3 text-special pull-left"]
-www.airbnb.com##DIV[class="price-range-slider"]
-www.airbnb.com##SPAN[class="btn btn-small btn-become-a-host"]
-www.airbnb.com##DIV[class="book-it__message-container js-book-it-message dated_views_people book-it__message-container--expanded"]
-www.airbnb.com##DIV[class="icon-background-container icon-rare-find-background"]
-www.nytimes.com##P[class="theme-comments"]
-www.bloomberg.com##UL[class="_2fyoCy8v_C0D9yxQemanS1"]
-www.facebook.com##DIV[class="_3x6b"]
-www.cnn.com##DIV[class="m-share m-share__rail js-share-rail  m-share__floating show"]
-www.cnn.com##DIV[class="el__leafmedia el__leafmedia--featured-video-collection el__leafmedia--standard"]
-twitter.com##LI[class="WtfLargeCarouselStreamItem js-stream-item stream-item js-dedupe-wtf-sidebar js-no-dedup DismissibleModule js-has-navigable-stream stream-item no-header-background-module separated-module\n"]
-www.wsj.com##DIV[class="carousel-wrap full-width"]
-www.wsj.com##DIV[class="trending_videos"]
-www.wsj.com##UL[class="article_tools clearFix"]
-www.google.com##DIV[class="_Zrm"]
-apracticalwedding.com##DIV[class="share sticky"]
-www.buzzfeed.com##DIV[class="share-box bf_dom"]
-www.washingtonpost.com##DIV[id="top-sharebar_5097"][class="top-sharebar-wrapper vertical-sticky-top-sharebar color-top"]
-www.washingtonpost.com##SECTION[id="right-rail"][class="col-xl-3 col-lg-4 col-md-4 col-sm-10 col-xs-10 col-xs-offset-1 col-sm-offset-1 col-md-offset-0 layout"]
-goodmenproject.com##UL[class="essb_links_list essb_hide_name"]
-www.bloomberg.com##DIV[class="dont-miss-out"]
-www.bloomberg.com##DIV[class="social-share"]
-www.bloomberg.com##BB-MINI-PLAYER
-www.cosmopolitan.com##DIV[class="social-menu"]
-medium.com##DIV[class="js-postFooterPlacements"]
-www.tripadvisor.co.uk##DIV[class="detail_inline_war_cta_ajax_container"]
-www.tripadvisor.co.uk##DIV[id="owner_reg_cta"][class="bx03 owners"]
-www.tripadvisor.co.uk##DIV[class="bx03 writeOwn"]
-www.prepareforsuccess.org.uk##DIV[id="rightSideBar"]
-kartsconsulting.com##DIV[class="ss"]
-www.playingwithwords365.com##DIV[class="shr-publisher-185 shareaholic-show-on-load"]
-www.airbnb.com##DIV[class="crossfading-panel__container text-right pull-right show-lg"]
-twitter.com##DIV[class="dashboard dashboard-right"]
-twitter.com##DIV[class="Trends module trends"]
-www.airbnb.com##DIV[class="guided-search-card--new-inline-format guided-search-card bg-white"]
-www.airbnb.com##DIV[class="listing-img guided-search-card--card-format guided-search-card bg-white"]
-www.airbnb.com##SPAN[class="badge_cm9r68"]
-www.airbnb.com##DIV[class="messaging-response-timer va-container non-response-at"]
-www.airbnb.com##DIV[class="SlideshowModalContent__share-save-controls with-bookit-styles"]
-www.amazon.com##TABLE[class="adStripe2"]
-www.theguardian.com##DIV[class="js-right-most-popular right-most-popular right-most-popular--image component--rhc hide-on-childrens-books-site"]
-www.theguardian.com##DIV[class="content__meta-container js-content-meta js-football-meta u-cf\n    \n    \n    \n    \n    \n    \n     content__meta-container--twitter\n    "]
-www.theguardian.com##DIV[class="meta__extras "]
-www.theguardian.com##A[class="button button--small button--secondary tone-colour "]
-medium.com##DIV[class="u-fixed u-bottom0 u-sizeFullWidth u-backgroundWhite u-boxShadowTop u-borderBox u-paddingTop10 u-paddingBottom10 u-zIndexMetabar u-xs-paddingLeft10 u-xs-paddingRight10 js-stickyFooter"]
-www.boredpanda.com##SPAN[class="image-share-box"]
-www.boredpanda.com##DIV[class="post-recommendations post-recommendations-main-block"]
-www.boredpanda.com##DIV[id="post-comments-area"][class="post-comments clearfix"]
-www.boredpanda.com##FOOTER[class="footer post-shares-footer clearfix"]
-www.boredpanda.com##DIV[class="post-bottom-recommendation-block"]
-www.boredpanda.com##SECTION[class="post-bottom-list post-complete-bottom-recommendations clearfix"]
-www.boredpanda.com##DIV[class="newsletter-variation new-variation-1"]
-www.huffingtonpost.com##DIV[class="share-bar share-bar--instream"]
-www.livescience.com##DIV[id="stickyShare"][class="gtmStickyShare static  fixed"]
-www.digitalocean.com##DIV[id="newsletter-signup-dialog"][class="newsletter-signups-dialog reveal"]
-searchdatamanagement.techtarget.com##UL[id="social-icons-desktop"][class="share-bar-desktop"]
-stackoverflow.com##DIV[id="hot-network-questions"]
-webapps.stackexchange.com##DIV[id="hot-network-questions"]
-www.periscope.tv##DIV[class="VideoOverlay-container"]
-www.nytimes.com##SECTION[class="module bundle-payflow-module"]
-www.newyorker.com##DIV[class="right-rail-fixed offset-calculated"]
-www.bankrate.com##DIV[class="social-share "]
-www.bankrate.com##ASIDE[class="editorial__advertisement"]
-www.theonion.com##SHARE-TOOLS[class="share share-widget square"]
-www.theonion.com##DIV[class="newsletter-signup ad-block-alt  pinned"]
-binarybound.com##DIV[id="sidebar"][class="sidebar-left "]
-www.theguardian.com##DIV[class="selection-sharing"]
-www.yelp.com##DIV[class="js-war-widget war-widget--compose review review--with-sidebar"]
-www.nytimes.com##DIV[id="newsletter-promo"][class="newsletter-signup"]
-www.nytimes.com##SECTION[id="related-combined-coverage"][class="related-combined-coverage nocontent robots-nocontent"]
-www.nytimes.com##UL[class="sharetools-menu"]
-www.gq-magazine.co.uk##ASIDE[class="a-left-col a-left-col--mobile-hide a-related-story-list sticky-item-related"]
-www.nytimes.com##BUTTON[class="button comments-button  theme-speech-bubble-large"]
-www.nytimes.com##ASIDE[class="module trending-module nocontent robots-nocontent"]
-mail.google.com##IFRAME[id="wblh0.08349417398206449-0"][class="a1j"]
-services1.capitalone.com##DIV[class="banner S4"]
-www.linkedin.com##LI[id="notifications-nav-item"][class="nav-item nav-item--notifications"]
-www.linkedin.com##SECTION[id="ember3866"][class="mn-pymk-list Elevation-2dp ember-view"]
-www.linkedin.com##SECTION[id="ember4436"]
-www.linkedin.com##DIV[class="mn-connections-summary ember-view"]
-www.linkedin.com##SECTION[class="mn-pymk-list Elevation-2dp ember-view"]
-www.linkedin.com##ASIDE[class="feed-right-rail right-rail"]
-mail.google.com##DIV[class="ibp_notification_bar"]
-sfist.com##DIV[id="column-featured"][class="column column-bestof"]
-twitter.com##DIV[class="module Trends trends"]
-mail.google.com##BUTTON[id="ibp-main"][class="ibp-menu-button"]
-unix.stackexchange.com##DIV[id="sidebar"][class="show-votes"]
-interpersonal.stackexchange.com##DIV[id="sidebar"][class="show-votes"]
-interpersonal.stackexchange.com##DIV[id="herobox"][class="hero-container"]
-www.psychologytoday.com##DIV[id="block-pt-stats-most-popular"][class="block-pt-stats-most-popular block block-pt-stats"]
-www.psychologytoday.com##DIV[id="block-apachesolr-search-mlt-002"][class="block-apachesolr-search-mlt-002 block block-apachesolr-search"]
-www.psychologytoday.com##DIV[id="block-pt-td-td-top-search"][class="block-pt-td-td-top-search block block-pt-td"]
-mint.intuit.com##DIV[class="CardView creditScoreWidget"]
-mint.intuit.com##DIV[class="CardView w2sWidget withAFooter"]
-mint.intuit.com##DIV[class="CardView adviceWidget"]
-stackoverflow.com##DIV[id="newsletter-ad"]
-dba.stackexchange.com##DIV[id="sidebar"][class="show-votes"]
-stackoverflow.com##DIV[class="module community-bulletin"]
-www.primelocation.com##DIV[id="featured_listings_wrapper"][class="clearfix"]
-www.zoopla.co.uk##A[href="https://www.hunters.com/"]
-www.nytimes.com##ASIDE[class="marginalia comments-marginalia  selected-comment-marginalia"]
-resources.gsmd.ac.uk##DIV[class="ui-widget-overlay ui-front"]
-www.amazon.co.uk##DIV[id="fx-disable"][class="a-row a-spacing-base"]
-www.netflix.com##DIV[class="billboard billboard-pane billboard-pane-main billboard-originals full-bleed-billboard"]
-www.netflix.com##DIV[class="synopsis"]
-sourceforge.net##DIV[id="newsletter-floating"][class="goth-form"]
-www.netflix.com##DIV[class="WatchNext-episode-synopsis"]
-thehoard.blog##DIV[class="js-postShareWidget u-foreground u-sm-hide u-fixed u-transition--fadeIn300"]
-www.understood.org##DIV[class="social-sharing-container"]
-www.amazon.co.uk##DIV[id="huc-v2-cobrand-stripe"][class="a-row"]
-www.amazon.co.uk##DIV[id="huc-first-upsell-row"][class="a-row a-spacing-top-small"]
-www.netflix.com##DIV[class="billboard billboard-pane billboard-pane-main billboard-originals full-bleed-billboard trailer-billboard"]
-www.kayak.com##DIV[id="uQrH"][class="Common-Promo-ChromeExtensionBanner"]
-money.cnn.com##VIDEO
-serverfault.com##DIV[class="module sidebar-related"]
-serverfault.com##DIV[id="hot-network-questions"][class="module tex2jax_ignore"]
-thoughts.t37.net##DIV[class="u-fixed u-bottom0 u-sizeFullWidth u-backgroundWhite u-boxShadowTop u-borderBox u-paddingTop10 u-paddingBottom10 u-zIndexMetabar u-xs-paddingLeft10 u-xs-paddingRight10 js-stickyFooter"]
-medium.com##DIV[class="container u-maxWidth740"]
-medium.com##DIV[class="js-postShareWidget u-foreground u-sm-hide u-fixed u-transition--fadeIn300"]
-medium.com##DIV[class="highlightMenu"]
-www.amazon.com##DIV[id="cbcc_banner"][class="cbcc_box "]
-mail.google.com##IMG[id="m_-357230203019734015B1B082A3-CAC1-47E0-833D-E555BB27F06C"][class="CToWUd a6T"]
-mail.google.com##IFRAME[class="a1j"]
-mail.google.com##DIV[id="talk_roster"]
-www.easyjet.com##P[class="currently-looking"]
-www.huffingtonpost.com##DIV[id="left-rail"]
-www.huffingtonpost.com##DIV[id="right-rail"]
-www.booking.com##DIV[class="lbsr  clearfix sr-booked-x-times"]
-www.booking.com##DIV[class="sr_no_desc_users js_sr_persuation_msg"]
-www.booking.com##DIV[class="fe_banner fe_banner__w-icon fe_banner__w-icon-large   "]
-www.booking.com##DIV[id="compsetwrap_1150577"][class="compsetwrapper"]
-www.booking.com##SPAN[class="gallery-info__um"]
-www.booking.com##DIV[id="reviewFloater"][class="tracked reviewFloater nha_large_photo_reviewFloater fixed_review_container"]
-www.facebook.com##A[class="fbNubButton demetricatedchat"]
-www.unpetitoiseaudanslacuisine.com##DIV[id="csbwfs-left"][class="csbwfs-social-widget"]
-venmo.com##DIV[class="feed"]
-venmo.com##DIV[class="white_background gray_box med_gray_box_top"]
-www.youtube.com##YTD-COMMENTS[id="comments"][class="style-scope ytd-watch"]
-www.youtube.com##DIV[id="items"][class="style-scope ytd-watch-next-secondary-results-renderer"]
-www.youtube.com##PAPER-BUTTON[class="style-scope yt-next-continuation"]
-www.youtube.com##YTD-TOGGLE-BUTTON-RENDERER[class="style-scope ytd-menu-renderer style-text force-icon-button"]
-www.youtube.com##PAPER-BUTTON[class="style-scope ytd-subscribe-button-renderer"]
-www.wired.com##DIV[class="inset-left-component fade-in-up inset-left-component--article"]
-www.wired.com##DIV[class="social-share-sidebar-component"]
-www.wired.com##DIV[class="post-listing-component__wrapper"]
-www.wired.com##IMG[src="/images/cm/failsafe-images/cm-failsafe-box.png"]
-mail.google.com##BUTTON[id="ibp-main"][class="ibp-main-button ibp-menu-button"]
-www.groupon.co.uk##DIV[class="deal-highlights-wrapper"]
-www.nytimes.com##NAV[class="ribbon-page-navigation ribbon-page-navigation-has-data previous"]
-www.crutchfield.com##SPAN[class="increaseUrgency"]
-www.linkedin.com##DIV[class="pv-content__right-rail right-rail"]
-www.linkedin.com##SECTION[id="ember5522"][class="mn-suggester mn-suggester--improvement Elevation-2dp focused-easeOut-motion ember-view"]
-www.linkedin.com##SECTION[class="mn-pymk-list Elevation-2dp"]
-www.youtube.com##DIV[class="ytp-endscreen-content"]
-www.washingtonpost.com##DIV[class="modal-mask"]
-www.nytimes.com##ASIDE[class="css-14jsv4e"]
-www.investopedia.com##IFRAME[id="google_ads_iframe_/8397/INV-NA/Investing/Investing/BC-Textnote/Term_0"][name="google_ads_iframe_/8397/INV-NA/Investing/Investing/BC-Textnote/Term_0"]
-www.investopedia.com##DIV[class="content-body"]
-www.investopedia.com##DIV[id="term_ArticlesOfInterest"][class="box col-right big-image gtm-colombian-native-8 gtm-colombian-native-9"]
-www.investopedia.com##DIV[id="bl_term_ralated_faqs"][class="box box-mediummore-margin first-letter-content clear"]
-www.investopedia.com##DIV[id="adPartnerLinks"][class="box openxbuttons"]
-www.investopedia.com##UL[class="ad-buttons clear"]
-www.investopedia.com##DIV[id="JWPVideo"][class="jwplayer jw-reset jw-state-playing jw-stretch-uniform jw-breakpoint-3 jw-flag-user-inactive"]
-www.businessinsider.com##DIV[class="tp-modal"]
-www.nytimes.com##DIV[class="Recirculation-recirculation--2BQm-"]
-www.linkedin.com##SECTION[id="ember2984"][class="mn-pymk-list mb4 artdeco-card ember-view"]
-www.linkedin.com##SECTION[id="ember3769"][class="mn-suggester Elevation-2dp focused-easeOut-motion ember-view"]
-soundcloud.com##DIV[class="statsBadge__upsell sc-border-light-top"]
-www.google.co.uk##DIV[class="gws-flights-results__price-tracker"]
-www.easyjet.com##DIV[id="qtip-6-content"][class="qtip-content"]
-thoughts.t37.net##DIV[class="metabar u-clearfix js-metabar u-textColorDarker u-fixed u-backgroundTransparentWhiteDarkest u-xs-sizeFullViewportWidth u-tintBgColor u-tintSpectrum"]
-crypto.stackexchange.com##DIV[id="hot-network-questions"][class="module tex2jax_ignore"]
-stackoverflow.com##DIV[class="module sidebar-linked"]
-stackoverflow.com##DIV[class="module sidebar-related"]
-stackoverflow.com##DIV[id="feed-link"]
-www.linkedin.com##DIV[class="reader-author-info__container-wrapper"]
-www.linkedin.com##[class="nav-item__badge"]
-www.thunderboltlabs.com##DIV[class="footer-contact"]
-read.acloud.guru##DIV[class="metabar u-clearfix js-metabar u-textColorTransparentWhiteDarker u-fixed u-backgroundTransparentWhiteDarkest u-xs-sizeFullViewportWidth u-tintBgColor u-tintSpectrum"]
-hackernoon.com##DIV[class="metabar u-clearfix js-metabar u-textColorDarker u-fixed u-backgroundTransparentWhiteDarkest u-xs-sizeFullViewportWidth u-tintBgColor u-tintSpectrum"]
-medium.freecodecamp.org##DIV[class="metabar u-clearfix js-metabar u-textColorTransparentWhiteDarker u-fixed u-backgroundTransparentWhiteDarkest u-xs-sizeFullViewportWidth u-tintBgColor u-tintSpectrum"]
-www.stratoscale.com##DIV[id="reading-progressbar"][class="top-banner"]
-www.nytimes.com##DIV[class="css-1reinx3 e12j3pa51"]
-www.nytimes.com##DIV[class="css-1ur45q4 e5d2tgl3"]
-theguardian.com##.social-icon
-theguardian.com##.discussion__top-border.gs-container
-theguardian.com###comments
-theguardian.com##.block-share
-stuff.co.nz##.social-bar
-mail.google.com##.brb
-mail.google.com###ibp-main
-ricette.giallozafferano.it##.lista-spesa-wrapper
-ricette.giallozafferano.it##.scheda.classici.package_medium
-ricette.giallozafferano.it##.heading-spons
-nytimes.com##.Ribbon-ribbon--3jG7Y.Ribbon-withDock--22MdQ.Ribbon-dockHidden--3r3jo
-nytimes.com##.nocontent.robots-nocontent
-theguardian.com##.dumathoin__header
-theguardian.com##.dumathoin__body
-nytimes.com##.css-1bfbrx0.e8a991u0
-vimeo.com##._1o1_E.sc-dTLGrV.evLIkL
-www.youtube.com##YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER[class="style-scope ytd-watch"]
-youtube.com##.ytd-watch-next-secondary-results-renderer
-youtube.com##.ytp-endscreen-content
-facebook.com###reg_box
-facebook.com##.registration_redesign
-facebook.com##.pvl._52lp._59d-
-youtube.com##.style-scope.ytd-comments-header-renderer
-youtube.com##.style-scope.ytd-comments
-youtube.com##.style-scope.ytd-notification-topbar-button-renderer
-youtube.com##.style-scope.ytd-menu-renderer.force-icon-button.style-text
-wetransfer.com##.wallpaper__title
-wetransfer.com##.nav__label
-nytimes.com##.css-eqw76k
-nytimes.com##.css-jad7l0
-nytimes.com###story-ad-3-wrapper
-nytimes.com##.eid77k2
-nytimes.com##.css-y8aj3r
-nytimes.com##.css-1pw63zi
-youtube.com#?#div#dismissable:-abp-has(*:-abp-contains(Recommended))
-nytimes.com##.css-mqwa36
-youtube.com##.live-premiere-info-container
-nytimes.com##.css-dvpunx.ejk1mx12
-nytimes.com##.css-g92qtk.epkadsg3
-theguardian.com##.fc-item__kicker.fc-item__kicker--breaking-news
-belfasttelegraph.co.uk##.column.single
-nytimes.com##.css-o6xoe7
-nytimes.com##.css-1bnxwmn.e1c1i1hy0
-baekdal.com###Sidebar
-medium.freecodecamp.org###ghostery-shadow-root
-medium.freecodecamp.org##.resolved
-medium.freecodecamp.org##.butterBar-message
-medium.freecodecamp.org##.metabar.u-clearfix.u-boxShadow4px12pxBlackLighter.u-textColorTransparentWhiteDarker.u-fixed.u-backgroundTransparentWhiteDarkest.u-xs-sizeFullViewportWidth.js-metabar
+dealbook.nytimes.com##SECTION[id="whats-next"]
+demo.getgrav.org##.media-caption
+drive.google.com##SPAN[id="gbgs1"][class="gbts"]
 easyjet.com##.last-booked
-booking.com##.trackit.althotelsReview2.fixed_review_height.fixed_review_top_align.review_content
-booking.com##.althotelsDiv2.use_sprites_no_back.featured_reviewer
-booking.com##.best-review-score.best-review-score-with_best_ugc_highlight
-booking.com##.hprt-booking-summary-best-price
-booking.com##.tt_content
-booking.com##.fe_banner.fe_banner__accessible.fe_banner__scale_small.fe_banner__w-icon.fe_banner__red
-secure.booking.com##.section
-personal.vanguard.com###opinion_labs
-blog.wealthfront.com##.signup.fixed
-booking.com###b_tt_holder_2
-booking.com##.hprt-green-condition
-booking.com##.urgency_message_red
-booking.com##.map-card__title-genius-logo
-airbnb.co.uk##._1036pk4
-airbnb.co.uk##._1v8srd3
-youtube.com###logo
-youtube.com##.view-count
-mail.google.com##.aCi
-nationalrail.co.uk##.cas.clear
+economix.blogs.nytimes.com##SECTION[id="whats-next"]
+en.wikipedia.org##.cbnnr-main
+en.wikipedia.org##DIV[id="footer"]
+en.wikipedia.org##DIV[id="mw-panel"][class="collapsible-nav"]
+en.wikipedia.org##DIV[id="p-views"][class="vectorTabs"]
 entrepreneur.com###pr-ticker
-huffingtonpost.co.uk##.newsletter-toaster__inner-container
-nytimes.com##.css-1qor430
-nytimes.com##.css-12qsqia
-nytimes.com###newsletter-module
-inc.com##.col-md-8.offset-md-0.col-lg-8.offset-lg-1
-cnbc.com##.PlaceHolder-endCard.PlaceHolder-inactive
-cnbc.com##.undefined.PlayButton-container
-cnbc.com##.InlineVideo-videoFooter
-cnbc.com##.supra-wrapper
-cnbc.com##.InlineVideo-inlineBackgroundImageContainer
-cnbc.com##.InlineVideo-wrapper
-vox.com##.c-rock-list__items
-vox.com###newsletter-signup-short-form
-vox.com##.c-newsletter_signup_box
-vox.com##.p-rock-head.c-rock-list__title
-twentyoverten.com##.intercom-borderless-frame.intercom-6idf9y.e1oluflk1
-yogajournal.com##.m-fixedbottom-ad--slot.is-placeholder.not-size-a.not-size-b
-yogajournal.com##.m-component-detail
-bloomberg.com##.zipr-recirc
-bloomberg.com##.right-rail.right-rail-v2
-bloomberg.com##.navi-bar__button.navi-bar__button--subscribe.navi-subscribe-link
-bloomberg.com###paywall-banner
-bloomberg.com##.banner__d5b8ebd5
-investopedia.com##.comp.inline-video
-mail.google.com##.apb
-mail.google.com##.l6
-mail.google.com##.ma
-codereview.stackexchange.com###feed-link
-codereview.stackexchange.com##.js-feed-link
-codereview.stackexchange.com###hot-network-questions
-techcrunch.com##.tp-modal
-techcrunch.com##.tp-backdrop
-independent.co.uk##.tp-modal
-independent.co.uk##.tp-backdrop
-mtlblog.com###gdpr-consent
-mtlblog.com##.ad.bigbox
-search.google.com##.bCR0ne
-search.google.com##.ECUNJc
-search.google.com##.wbcKCb
-youtube.com##.style-scope.ytd-guide-renderer
-techcrunch.com##.extra-crunch-offer-container
-blog.inkdrop.info##.js-metabarMiddle.metabar-inner.u-marginAuto.u-maxWidth1032.u-flexCenter.u-justifyContentSpaceBetween.u-height65.u-xs-height56.u-paddingHorizontal20
-hackingwithswift.com##p[style="margin-top: 5px; color: #999999; margin: 6px; color: white; text-align: center;"]
+epfilms.tv##DIV[id="flybx_box"]
+facebook.com###reg_box
+facebook.com##.pvl._52lp._59d-
+facebook.com##.registration_redesign
+gearslutz.com###vB_Editor_001_smiliebox
+gearslutz.com###vB_Editor_QR_smiliebox
+gearslutz.com##.fieldset.smartphoneHidden.cont_posticons
+goodmenproject.com##UL[class="essb_links_list essb_hide_name"]
+google.com##.HF9Klc.ZYMsjf
+google.com##.iRxY3GoUYUY__actionchip
+google.com##.more-vert
+google.com##.section-review-interaction-bar
+google.com##.widget-nearby-suggestions-inner.GLOBAL__gm2-elevation-2
+grist.org##SECTION[class="home-featured-items"]
+hackernoon.com##DIV[class="metabar u-clearfix js-metabar u-textColorDarker u-fixed u-backgroundTransparentWhiteDarkest u-xs-sizeFullViewportWidth u-tintBgColor u-tintSpectrum"]
+hackingwithswift.com###latestTutorial
 hackingwithswift.com##.books-sidebar
 hackingwithswift.com##.hws-notices-top
-hackingwithswift.com###latestTutorial
-linkedin.com###ember448
-linkedin.com##.artdeco-carousel.ember-view
-medium.com##.overlay.overlay--light
-medium.com##.js-stickyFooter
-nytimes.com##.css-rtwehe.eq74mwp0
-stackoverflow.com###sidebar
-google.com##.more-vert
-google.com##.HF9Klc.ZYMsjf
-zillow.com##.Button-sc-1ki4y6n-0.PageScroll__ScrollIndicatorBtn-m4l7mg-1.eyDchP
-techradar.com###om-adnbbcew6ewsskzyarr1
-techradar.com##.omaha-background.omaha-adnbbcew6ewsskzyarr1.omaha-optin-visible.omaha-canvas.omaha-whiteboard
-techradar.com##.carousel__title.carousel__title--black-logo
-techradar.com##.jw-video.jw-reset
-techradar.com##video
-techradar.com##.jw-media.jw-reset
-techradar.com##.jw-wrapper.jw-reset
-techradar.com##.sticky-player-background
-techradar.com###botr_KgQ4BrDw_APjl6osP_div
-techradar.com##.jwplayer.jw-reset.jw-state-paused.jw-stretch-uniform.jw-breakpoint-3.jw-floating-dismissible
-latimes.com##.met-flyout
+hackingwithswift.com##p[style="margin-top: 5px; color: #999999; margin: 6px; color: white; text-align: center;"]
+heleo.com###sidebar-gist
+heleo.com##.heleo-module.heleo-module-sidebar.sidebar-gist
+heleo.com##.heleo-module.most-read
+heleo.com##.progressbar
+hotel.vueling.com##DIV[class="notice-item-wrapper"]
+huffingtonpost.co.uk##.newsletter-toaster__inner-container
+inc.com##.col-md-8.offset-md-0.col-lg-8.offset-lg-1
+independent.co.uk##.tp-backdrop
+independent.co.uk##.tp-modal
+insights.wired.com##DIV[id="divStayTopLeft"]
+interpersonal.stackexchange.com##DIV[id="herobox"][class="hero-container"]
+interpersonal.stackexchange.com##DIV[id="sidebar"][class="show-votes"]
+investopedia.com##.comp.inline-video
+kartsconsulting.com##DIV[class="ss"]
 latimes.com###right-rail
 latimes.com##.card-content.flex-container-row.justify-space-between.align-items-start
 latimes.com##.card-header.flex-container-row.align-items-center
-uxdesign.cc##.u-fixed.u-bottom0
-theguardian.com##.contributions__epic
-secure.backblaze.com##.restore-success-social-box
-en.wikipedia.org##.cbnnr-main
-nytimes.com##.css-1kfoefu.eq74mwp0
-businessinsider.com##.tp-backdrop.tp-active
-gearslutz.com###vB_Editor_001_smiliebox
-gearslutz.com##.fieldset.smartphoneHidden.cont_posticons
-nytimes.com##.css-i29ckm
-quantamagazine.org##.block
-gearslutz.com###vB_Editor_QR_smiliebox
-demo.getgrav.org##.media-caption
-secure.booking.com##.fe_banner.fe_banner__accessible.fe_banner__w-icon.fe_banner__red.fe_banner__bp.fe_banner__inherit_font_size
-petapixel.com##.page__sidebar
-atlassian.com##.post-progress
-zapier.com###hello-pop-up
-theoutline.com##.pullquote.pullquote--inline
-heleo.com##.progressbar
-heleo.com##.heleo-module.most-read
-heleo.com###sidebar-gist
-heleo.com##.heleo-module.heleo-module-sidebar.sidebar-gist
-deadline.com##.pmc-u-margin-b-0.pmc-u-background-white.u-box-shadow-medium.pmc-u-padding-a-1.a-wrapper
-deadline.com##.article-sidebar.pmc-a-grid-item.a-space-children-vertical.a-space-children--2
-deadline.com##.related-story.u-border-l-8.u-border-color-brand-red.pmc-u-margin-l-2.pmc-u-margin-t-2.pmc-u-margin-b-2.pmc-u-padding-l-1
-theatlantic.com###injected-recirculation-link-0
-theatlantic.com##.c-recirculation-link
-theatlantic.com##.callout
-theatlantic.com##.article-after
+latimes.com##.met-flyout
+lifehacker.com##SPAN[class="annotateButton js_text-annotate text-annotation-button icon notranslate"]
+linkedin.com###ember448
+linkedin.com##.artdeco-carousel.ember-view
+lolmythesis.com##[id="tumblr_teaser_follow"]
+mail.google.com###ibp-main
+mail.google.com##.aCi
+mail.google.com##.apb
+mail.google.com##.brb
+mail.google.com##.l6
+mail.google.com##.ma
+mail.google.com##BUTTON[id="ibp-main"][class="ibp-main-button ibp-menu-button"]
+mail.google.com##BUTTON[id="ibp-main"][class="ibp-menu-button"]
+mail.google.com##DIV[class="ibp_notification_bar"]
+mail.google.com##DIV[id="talk_roster"]
+mail.google.com##IFRAME[class="a1j"]
+mail.google.com##IFRAME[id="wblh0.08349417398206449-0"][class="a1j"]
+mail.google.com##IMG[id="m_-357230203019734015B1B082A3-CAC1-47E0-833D-E555BB27F06C"][class="CToWUd a6T"]
+medium.com##.js-stickyFooter
+medium.com##.overlay.overlay--light
+medium.com##DIV[class="container u-maxWidth740"]
+medium.com##DIV[class="highlightMenu"]
+medium.com##DIV[class="js-postFooterPlacements"]
+medium.com##DIV[class="js-postShareWidget u-foreground u-sm-hide u-fixed u-transition--fadeIn300"]
+medium.com##DIV[class="u-fixed u-bottom0 u-sizeFullWidth u-backgroundWhite u-boxShadowTop u-borderBox u-paddingTop10 u-paddingBottom10 u-zIndexMetabar u-xs-paddingLeft10 u-xs-paddingRight10 js-stickyFooter"]
+medium.freecodecamp.org###ghostery-shadow-root
+medium.freecodecamp.org##.butterBar-message
+medium.freecodecamp.org##.metabar.u-clearfix.u-boxShadow4px12pxBlackLighter.u-textColorTransparentWhiteDarker.u-fixed.u-backgroundTransparentWhiteDarkest.u-xs-sizeFullViewportWidth.js-metabar
+medium.freecodecamp.org##.resolved
+medium.freecodecamp.org##DIV[class="metabar u-clearfix js-metabar u-textColorTransparentWhiteDarker u-fixed u-backgroundTransparentWhiteDarkest u-xs-sizeFullViewportWidth u-tintBgColor u-tintSpectrum"]
+mic.com##SECTION[id="social-prompt-growler-survey"]
+mint.intuit.com##DIV[class="CardView adviceWidget"]
+mint.intuit.com##DIV[class="CardView creditScoreWidget"]
+mint.intuit.com##DIV[class="CardView w2sWidget withAFooter"]
+money.cnn.com##VIDEO
+mtlblog.com###gdpr-consent
+mtlblog.com##.ad.bigbox
+nationalrail.co.uk##.cas.clear
 newyorker.com##.GrowlerFailsafe__container___395Iv
 newyorker.com##.Link__link___3dWao.LinkFailsafe__collapsed_nav_failsafe___2cmEL
-androidauthority.com##.widgets.clearfix
-youtube.com###button
-youtube.com##.style-scope.ytd-topbar-menu-button-renderer.style-default
+nutritiondata.self.com##SECTION[class="related-section"]
+nytimes.com###newsletter-module
+nytimes.com###story-ad-3-wrapper
+nytimes.com##.Ribbon-ribbon--3jG7Y.Ribbon-withDock--22MdQ.Ribbon-dockHidden--3r3jo
+nytimes.com##.css-12qsqia
+nytimes.com##.css-1bfbrx0.e8a991u0
+nytimes.com##.css-1bnxwmn.e1c1i1hy0
+nytimes.com##.css-1kfoefu.eq74mwp0
+nytimes.com##.css-1pw63zi
+nytimes.com##.css-1qor430
+nytimes.com##.css-dvpunx.ejk1mx12
+nytimes.com##.css-eqw76k
+nytimes.com##.css-g92qtk.epkadsg3
+nytimes.com##.css-i29ckm
+nytimes.com##.css-jad7l0
+nytimes.com##.css-mqwa36
+nytimes.com##.css-o6xoe7
+nytimes.com##.css-rtwehe.eq74mwp0
+nytimes.com##.css-y8aj3r
+nytimes.com##.eid77k2
+nytimes.com##.nocontent.robots-nocontent
+offbeat.topix.com##ASIDE[class="str-sidebar"]
+offbeat.topix.com##SECTION[class="str-two-up-widget"]
+online.wsj.com##DIV[class="module rich-media-inset inset-box inset-group view   "]
+personal.vanguard.com###opinion_labs
+petapixel.com##.page__sidebar
 quantamagazine.org###comments
+quantamagazine.org##.block
 quantamagazine.org##.flex.flex-items-center.pangram
-google.com##.widget-nearby-suggestions-inner.GLOBAL__gm2-elevation-2
-google.com##.iRxY3GoUYUY__actionchip
-google.com##.section-review-interaction-bar
-theguardian.com##.footer__email-container.js-footer__email-container
+read.acloud.guru##DIV[class="metabar u-clearfix js-metabar u-textColorTransparentWhiteDarker u-fixed u-backgroundTransparentWhiteDarkest u-xs-sizeFullViewportWidth u-tintBgColor u-tintSpectrum"]
+resources.gsmd.ac.uk##DIV[class="ui-widget-overlay ui-front"]
+ricette.giallozafferano.it##.heading-spons
+ricette.giallozafferano.it##.lista-spesa-wrapper
+ricette.giallozafferano.it##.scheda.classici.package_medium
+search.google.com##.ECUNJc
+search.google.com##.bCR0ne
+search.google.com##.wbcKCb
+searchdatamanagement.techtarget.com##UL[id="social-icons-desktop"][class="share-bar-desktop"]
+secure-www.zappos.com##H5[class="stockMsg"]
+secure.backblaze.com##.restore-success-social-box
+secure.booking.com##.fe_banner.fe_banner__accessible.fe_banner__w-icon.fe_banner__red.fe_banner__bp.fe_banner__inherit_font_size
+secure.booking.com##.section
+secure.booking.com##DIV[class="notice-item-wrapper"]
+secure.booking.com##DIV[id="bp_sidebar_external_proof"]
+serverfault.com##DIV[class="module sidebar-related"]
+serverfault.com##DIV[id="hot-network-questions"][class="module tex2jax_ignore"]
+services1.capitalone.com##DIV[class="banner S4"]
+sfist.com##DIV[id="column-featured"][class="column column-bestof"]
+soundcloud.com##DIV[class="statsBadge__upsell sc-border-light-top"]
+sourceforge.net##DIV[id="newsletter-floating"][class="goth-form"]
+stackoverflow.com###sidebar
+stackoverflow.com##DIV[class="module community-bulletin"]
+stackoverflow.com##DIV[class="module sidebar-linked"]
+stackoverflow.com##DIV[class="module sidebar-related"]
+stackoverflow.com##DIV[class="newsletter-anon"]
+stackoverflow.com##DIV[id="feed-link"]
+stackoverflow.com##DIV[id="hot-network-questions"]
+stackoverflow.com##DIV[id="hot-network-questions"][class="module"]
+stackoverflow.com##DIV[id="newsletter-ad"]
+stuff.co.nz##.social-bar
+techcrunch.com##.extra-crunch-offer-container
+techcrunch.com##.tp-backdrop
+techcrunch.com##.tp-modal
+techcrunch.com##DIV[class="toaster section"]
+techcrunch.com##DIV[class="toaster section"]
+techradar.com###botr_KgQ4BrDw_APjl6osP_div
+techradar.com###om-adnbbcew6ewsskzyarr1
+techradar.com##.carousel__title.carousel__title--black-logo
+techradar.com##.jw-media.jw-reset
+techradar.com##.jw-video.jw-reset
+techradar.com##.jw-wrapper.jw-reset
+techradar.com##.jwplayer.jw-reset.jw-state-paused.jw-stretch-uniform.jw-breakpoint-3.jw-floating-dismissible
+techradar.com##.omaha-background.omaha-adnbbcew6ewsskzyarr1.omaha-optin-visible.omaha-canvas.omaha-whiteboard
+techradar.com##.sticky-player-background
+techradar.com##video
+theatlantic.com###injected-recirculation-link-0
+theatlantic.com##.article-after
+theatlantic.com##.c-recirculation-link
+theatlantic.com##.callout
+thecolbertreport.cc.com##DIV[id="oo_tab_1"][class="oo_tab_right_1"]
+theguardian.com###comments
+theguardian.com###today-in-focus-weekend
+theguardian.com##.block-share
 theguardian.com##.colophon__list
 theguardian.com##.contributions__adblock-content
-theguardian.com##.new-header__cta-bar.hide-until-mobile
-theguardian.com###today-in-focus-weekend
+theguardian.com##.contributions__epic
+theguardian.com##.discussion__top-border.gs-container
+theguardian.com##.dumathoin__body
+theguardian.com##.dumathoin__header
 theguardian.com##.fc-container.fc-container--thrasher.flashing-image.fc-container--has-toggle
+theguardian.com##.fc-item__kicker.fc-item__kicker--breaking-news
+theguardian.com##.footer__email-container.js-footer__email-container
+theguardian.com##.new-header__cta-bar.hide-until-mobile
+theguardian.com##.social-icon
+thehoard.blog##DIV[class="js-postShareWidget u-foreground u-sm-hide u-fixed u-transition--fadeIn300"]
+theoutline.com##.pullquote.pullquote--inline
+thoughts.t37.net##DIV[class="metabar u-clearfix js-metabar u-textColorDarker u-fixed u-backgroundTransparentWhiteDarkest u-xs-sizeFullViewportWidth u-tintBgColor u-tintSpectrum"]
+thoughts.t37.net##DIV[class="u-fixed u-bottom0 u-sizeFullWidth u-backgroundWhite u-boxShadowTop u-borderBox u-paddingTop10 u-paddingBottom10 u-zIndexMetabar u-xs-paddingLeft10 u-xs-paddingRight10 js-stickyFooter"]
+twentyoverten.com##.intercom-borderless-frame.intercom-6idf9y.e1oluflk1
+twitter.com##DIV[class="Trends module trends"]
+twitter.com##DIV[class="dashboard dashboard-right"]
+twitter.com##DIV[class="module Trends trends"]
+twitter.com##DIV[class="users related"]
+twitter.com##LI[class="WtfLargeCarouselStreamItem js-stream-item stream-item js-dedupe-wtf-sidebar js-no-dedup DismissibleModule js-has-navigable-stream stream-item no-header-background-module separated-module\n"]
+unix.stackexchange.com##DIV[id="sidebar"][class="show-votes"]
+uxdesign.cc##.u-fixed.u-bottom0
+venmo.com##DIV[class="feed"]
+venmo.com##DIV[class="white_background gray_box med_gray_box_top"]
+vimeo.com##._1o1_E.sc-dTLGrV.evLIkL
+vox.com###newsletter-signup-short-form
+vox.com##.c-newsletter_signup_box
+vox.com##.c-rock-list__items
+vox.com##.p-rock-head.c-rock-list__title
+webapps.stackexchange.com##DIV[id="hot-network-questions"]
+wetransfer.com##.nav__label
+wetransfer.com##.wallpaper__title
+whitetailsoftware.com##DIV[class="rb-popup black-popup"]
+www.airbnb.com##A[href="/invite?r=3"]
+www.airbnb.com##DIV[class="SlideshowModalContent__share-save-controls with-bookit-styles"]
+www.airbnb.com##DIV[class="book-it__message-container js-book-it-message dated_views_people book-it__message-container--expanded"]
+www.airbnb.com##DIV[class="book-it__price-amount h3 text-special pull-left"]
+www.airbnb.com##DIV[class="crossfading-panel__container text-right pull-right show-lg"]
+www.airbnb.com##DIV[class="guided-search-card--new-inline-format guided-search-card bg-white"]
+www.airbnb.com##DIV[class="icon-background-container icon-rare-find-background"]
+www.airbnb.com##DIV[class="listing-img guided-search-card--card-format guided-search-card bg-white"]
+www.airbnb.com##DIV[class="messaging-response-timer va-container non-response-at"]
+www.airbnb.com##DIV[class="price-amount-container"]
+www.airbnb.com##DIV[class="price-range-slider"]
+www.airbnb.com##DIV[class="urgency-panel"]
+www.airbnb.com##DIV[id="similar-listings"]
+www.airbnb.com##SPAN[class="badge_cm9r68"]
+www.airbnb.com##SPAN[class="btn btn-small btn-become-a-host"]
+www.amazon.co.uk##DIV[id="fx-disable"][class="a-row a-spacing-base"]
+www.amazon.co.uk##DIV[id="huc-first-upsell-row"][class="a-row a-spacing-top-small"]
+www.amazon.co.uk##DIV[id="huc-v2-cobrand-stripe"][class="a-row"]
+www.amazon.com##DIV[class="huc-upsell"]
+www.amazon.com##DIV[id="cbcc_banner"][class="cbcc_box "]
+www.amazon.com##DIV[id="hlbcc"]
+www.amazon.com##DIV[id="rhf"][class="copilot-secure-display"]
+www.amazon.com##TABLE[class="adStripe2"]
+www.bankrate.com##ASIDE[class="editorial__advertisement"]
+www.bankrate.com##DIV[class="social-share "]
+www.bbc.com##ASIDE[id="secondary-column"]
+www.bbc.com##DIV[class="social-tools js-enabled fixed"]
+www.bhphotovideo.com##DIV[class="scShipTime js-scShipTime"]
+www.bloomberg.com##BB-MINI-PLAYER
+www.bloomberg.com##DIV[class="dont-miss-out"]
+www.bloomberg.com##DIV[class="social-share"]
+www.bloomberg.com##UL[class="_2fyoCy8v_C0D9yxQemanS1"]
+www.booking.com##A[class="jq_tooltip urgency_link scarcity_color"]
+www.booking.com##DIV[class="fe_banner fe_banner__w-icon fe_banner__w-icon-large   "]
+www.booking.com##DIV[class="lbsr  clearfix sr-booked-x-times"]
+www.booking.com##DIV[class="lock_price"]
+www.booking.com##DIV[class="maps-iw-notification-inner"]
+www.booking.com##DIV[class="notice-item-wrapper"]
+www.booking.com##DIV[class="recHotel js_recHotel"]
+www.booking.com##DIV[class="sr_no_desc_users js_sr_persuation_msg"]
+www.booking.com##DIV[id="compset_1297415"][class="sr_compset"]
+www.booking.com##DIV[id="compsetwrap_1150577"][class="compsetwrapper"]
+www.booking.com##DIV[id="reviewFloater"][class="tracked reviewFloater nha_large_photo_reviewFloater fixed_review_container"]
+www.booking.com##SPAN[class="gallery-info__um"]
+www.booking.com##SPAN[class="lastbooking jq_tooltip"]
+www.booking.com##SPAN[class="only_x_left sr_rooms_left_wrap "]
+www.booking.com##SPAN[class="sold_out_property"]
+www.booking.com##SPAN[class="xroomsleft urgency_message_red"]
+www.booking.com##TABLE[id="msg_low_avail"]
+www.booking.com##[class="urgency_link scarcity_color jq_tooltip"]
+www.boredpanda.com##DIV[class="newsletter-variation new-variation-1"]
+www.boredpanda.com##DIV[class="post-bottom-recommendation-block"]
+www.boredpanda.com##DIV[class="post-recommendations post-recommendations-main-block"]
+www.boredpanda.com##DIV[id="post-comments-area"][class="post-comments clearfix"]
+www.boredpanda.com##FOOTER[class="footer post-shares-footer clearfix"]
+www.boredpanda.com##SECTION[class="post-bottom-list post-complete-bottom-recommendations clearfix"]
+www.boredpanda.com##SPAN[class="image-share-box"]
+www.businessinsider.com##DIV[class="tp-modal"]
+www.businessweek.com##DIV[class="slideout tracked"]
+www.buzzfeed.com##DIV[class="share-box bf_dom"]
+www.cnn.com##DIV[class="el__leafmedia el__leafmedia--featured-video-collection el__leafmedia--standard"]
+www.cnn.com##DIV[class="m-share m-share__rail js-share-rail  m-share__floating show"]
+www.contactually.com##DIV[id="intercom-container"][class="intercom-container intercom-reset"]
+www.contemplativecomputing.org##DIV[class="comments"]
+www.contemplativecomputing.org##DIV[class="trackbacks"]
+www.contemplativecomputing.org##P[class="entry-footer-info"]
+www.cosmopolitan.com##DIV[class="social-menu"]
+www.crutchfield.com##SPAN[class="increaseUrgency"]
+www.digitalocean.com##DIV[id="newsletter-signup-dialog"][class="newsletter-signups-dialog reveal"]
+www.easyjet.com##DIV[id="qtip-6-content"][class="qtip-content"]
+www.easyjet.com##P[class="currently-looking"]
+www.expedia.com##LI[class="seats-left"]
+www.facebook.com##A[class="fbNubButton demetricatedchat"]
+www.facebook.com##A[id="demetricatorlink"]
+www.facebook.com##A[id="u_0_18"][class="sortLink _p"]
+www.facebook.com##DIV[class="_2bex"]
+www.facebook.com##DIV[class="_3x6b"]
+www.facebook.com##DIV[class="_4-u2 _5m6w"]
+www.facebook.com##DIV[class="_4-u2 mbm _la"]
+www.facebook.com##DIV[class="_5ahz"]
+www.facebook.com##DIV[class="_5g-l"]
+www.facebook.com##DIV[class="ego_column pagelet _y92 _5qrt _1snm"]
+www.facebook.com##DIV[class="home_right_column tickerOnTop"]
+www.facebook.com##DIV[class="pal megaphone_box"]
+www.facebook.com##DIV[class="uiOverlay uiContextualDialog uiContextualDialogArrowRight"]
+www.facebook.com##DIV[id="GroupsRHCSuggestionSection"]
+www.facebook.com##DIV[id="NonAdminInvite"][class="nonAdminInviteContainer"]
+www.facebook.com##DIV[id="chatFriendsOnline"][class="isOffline"]
+www.facebook.com##DIV[id="event_related_events"]
+www.facebook.com##DIV[id="mobile_mirror_banner"][class="fbPageBanner uiBoxYellow noborder"]
+www.facebook.com##DIV[id="pagelet_advertiser_panel"][class="pagelet"]
+www.facebook.com##DIV[id="pagelet_trending_tags_and_topics"][class="pagelet"]
+www.facebook.com##DIV[id="u_0_2f"][class="_5jmm _5pat _5uch _i6m _5y7m"]
+www.facebook.com##DIV[id="u_14_0"][class="_4-u2 mbm _la _5jmm"]
+www.facebook.com##DIV[id="u_a_0"][class="mvs _5j5u _5j5v _5q7o clearfix"]
+www.facebook.com##DIV[id="u_ps_0_0_0"][class="_4-u2 mbm _5jmm _5pat _5v3q _5x16 _2l4l"]
+www.facebook.com##DIV[id="u_y_0"][class="mvs _5j5u _5j5v _5q7o clearfix"]
+www.facebook.com##LI[id="u_jsonp_3_23"][class="fbTimelineUnit fbTimelineTwoColumn clearfix"]
+www.facebook.com##SPAN[class="count _5wk0 uiSideNavCount"]
+www.facebook.com##[class="clearfix fbRemindersStory"]
+www.facebook.com##[class="fbTimelineUnit fbTimelineTwoColumn clearfix recentActivityContainer"]
+www.facebook.com##[id="appsNav"]
+www.facebook.com##[id="groupsNav"]
+www.facebook.com##[id="interestsNav"]
+www.facebook.com##[id="listsNav"]
+www.facebook.com##[id="pagesNav"]
+www.fastcompany.com##DIV[id="sidebar-follow"]
+www.fastmail.fm##DIV[id="usageInfo"][class="usage0-50"]
+www.gearslutz.com##DIV[id="SupportUsSide"]
+www.gearslutz.com##DIV[id="adCarousel"]
+www.gearslutz.com##DIV[id="discussed_products"]
+www.gearslutz.com##DIV[id="headerSpacerAd"]
+www.google.co.uk##DIV[class="gws-flights-results__price-tracker"]
+www.google.com##A[class="gb_r gb_P gb_j gb_L"]
+www.google.com##A[class="gb_r gb_g"]
+www.google.com##BUTTON[id="gbqfba"][class="gbqfba"][name="btnK"]
+www.google.com##BUTTON[id="gbqfbb"][class="gbqfba"][name="btnI"]
+www.google.com##DIV[class="_Zrm"]
+www.google.com##DIV[class="crc"]
+www.google.com##DIV[class="fbar fmulti"]
+www.google.com##DIV[class="fbar"]
+www.google.com##DIV[class="gb_Ab gb_j gb_Hb gb_l"]
+www.google.com##DIV[class="gb_Bb gb_j gb_Ib gb_l"]
+www.google.com##DIV[class="gb_Ua gb_Ca"]
+www.google.com##DIV[id="brs"]
+www.google.com##DIV[id="gbwa"][class="gb_m gb_ya gb_g"]
+www.google.com##DIV[id="sbfrm_l"]
+www.google.com##IMG[id="hplogo"]
+www.google.com##LI[id="ab_ctl_ps"]
+www.google.com##SPAN[class="gb_g"]
+www.google.com##TD[class="b navend"]
+www.google.com##[href="https://plus.google.com/u/0/notifications/all?hl=en"]
+www.gq-magazine.co.uk##ASIDE[class="a-left-col a-left-col--mobile-hide a-related-story-list sticky-item-related"]
+www.groupon.co.uk##DIV[class="deal-highlights-wrapper"]
+www.hostelworld.com##DIV[class="persuasiveMsg"]
+www.huffingtonpost.com##DIV[class="share-bar share-bar--instream"]
+www.huffingtonpost.com##DIV[id="left-rail"]
+www.huffingtonpost.com##DIV[id="right-rail"]
+www.huffingtonpost.com##DIV[id="sidebar_right"][class="grid third flush_top"]
+www.huffingtonpost.com##SECTION[class="most-popular"]
+www.independent.co.uk##DIV[class="column-2"]
+www.independent.co.uk##DIV[class="widget code html lpr-widget mini"]
+www.investopedia.com##DIV[class="content-body"]
+www.investopedia.com##DIV[id="JWPVideo"][class="jwplayer jw-reset jw-state-playing jw-stretch-uniform jw-breakpoint-3 jw-flag-user-inactive"]
+www.investopedia.com##DIV[id="adPartnerLinks"][class="box openxbuttons"]
+www.investopedia.com##DIV[id="bl_term_ralated_faqs"][class="box box-mediummore-margin first-letter-content clear"]
+www.investopedia.com##DIV[id="term_ArticlesOfInterest"][class="box col-right big-image gtm-colombian-native-8 gtm-colombian-native-9"]
+www.investopedia.com##IFRAME[id="google_ads_iframe_/8397/INV-NA/Investing/Investing/BC-Textnote/Term_0"][name="google_ads_iframe_/8397/INV-NA/Investing/Investing/BC-Textnote/Term_0"]
+www.investopedia.com##UL[class="ad-buttons clear"]
+www.kayak.com##A[id="deals-link"]
+www.kayak.com##A[id="kpack-link"]
+www.kayak.com##A[id="more-link"]
+www.kayak.com##DIV[class="inlineAdRow"]
+www.kayak.com##DIV[id="uQrH"][class="Common-Promo-ChromeExtensionBanner"]
+www.kayak.com##SPAN[id="footerMenu"]
+www.kijiji.it##DIV[id="vip-instant-message"]
+www.lifehack.org##ASIDE[class="popular-header row"]
+www.lifehack.org##ASIDE[id="comments"][class="hidden-phone"]
+www.lifehack.org##DIV[class="footer-related-post"]
+www.lifehack.org##DIV[id="popular_post_sticky"]
+www.lifehack.org##NAV[class="default_prevnext below-footer-related-post"]
+www.lifehack.org##NAV[class="default_prevnext"]
+www.linkedin.com##ASIDE[class="feed-right-rail right-rail"]
+www.linkedin.com##DIV[class="endorse-connections"]
+www.linkedin.com##DIV[class="guided-edit"]
+www.linkedin.com##DIV[class="mn-connections-summary ember-view"]
+www.linkedin.com##DIV[class="module-box "]
+www.linkedin.com##DIV[class="no-number hopscotch-bubble animated"]
+www.linkedin.com##DIV[class="premium-upsell animate"]
+www.linkedin.com##DIV[class="pv-content__right-rail right-rail"]
+www.linkedin.com##DIV[class="reader-author-info__container-wrapper"]
+www.linkedin.com##DIV[class="recommendation"]
+www.linkedin.com##DIV[id="author-header"][class="module-box"]
+www.linkedin.com##DIV[id="control_gen_17"][class="recommendation"]
+www.linkedin.com##DIV[id="feed-wrapper"]
+www.linkedin.com##LI[id="notifications-nav-item"][class="nav-item nav-item--notifications"]
+www.linkedin.com##SECTION[class="mn-pymk-list Elevation-2dp ember-view"]
+www.linkedin.com##SECTION[class="mn-pymk-list Elevation-2dp"]
+www.linkedin.com##SECTION[id="ember2984"][class="mn-pymk-list mb4 artdeco-card ember-view"]
+www.linkedin.com##SECTION[id="ember3769"][class="mn-suggester Elevation-2dp focused-easeOut-motion ember-view"]
+www.linkedin.com##SECTION[id="ember3866"][class="mn-pymk-list Elevation-2dp ember-view"]
+www.linkedin.com##SECTION[id="ember4436"]
+www.linkedin.com##SECTION[id="ember5522"][class="mn-suggester mn-suggester--improvement Elevation-2dp focused-easeOut-motion ember-view"]
+www.linkedin.com##SPAN[id="header-messages-count"][class="gem "]
+www.linkedin.com##UL[class="nav premium-nav"]
+www.linkedin.com##[class="nav-item__badge"]
+www.livescience.com##DIV[id="stickyShare"][class="gtmStickyShare static  fixed"]
+www.macrumors.com##DIV[id="mr-pushbanner"][class="alert-push-notifications"]
+www.marketingcharts.com##DIV[id="subscribe"][class="row"]
+www.mediapost.com##DIV[id="most_read"][class="sidebar_section"]
+www.meetup.com##DIV[class="alert-bar transitionable"]
+www.meetup.com##DIV[class="alert-bar transitionable"]
+www.muscleandfitness.com##DIV[id="gigya-sharebar"]
+www.netflix.com##DIV[class="WatchNext-episode-synopsis"]
+www.netflix.com##DIV[class="billboard billboard-pane billboard-pane-main billboard-originals full-bleed-billboard trailer-billboard"]
+www.netflix.com##DIV[class="billboard billboard-pane billboard-pane-main billboard-originals full-bleed-billboard"]
+www.netflix.com##DIV[class="synopsis"]
+www.newelectronics.co.uk##DIV[class="right-column"]
+www.newelectronics.co.uk##DIV[id="ctl00_Footer_uiFooter_uiEzinePanel"]
+www.newelectronics.co.uk##DIV[id="footer"]
+www.newelectronics.co.uk##DIV[id="sharebox"]
+www.newyorker.com##DIV[class="right-rail-fixed offset-calculated"]
+www.nytimes.com##ASIDE[class="css-14jsv4e"]
+www.nytimes.com##ASIDE[class="marginalia collection-marginalia collection collection-type-column collection-tone-opinion collection-section-opinion collection-theme-latest-headlines nocontent robots-nocontent"]
+www.nytimes.com##ASIDE[class="marginalia comments-marginalia  selected-comment-marginalia"]
+www.nytimes.com##ASIDE[class="marginalia most-emailed-marginalia nocontent robots-nocontent"]
+www.nytimes.com##ASIDE[class="marginalia most-emailed-marginalia nocontent"]
+www.nytimes.com##ASIDE[class="module trending-module nocontent robots-nocontent"]
+www.nytimes.com##BUTTON[class="button comments-button  theme-speech-bubble"]
+www.nytimes.com##BUTTON[class="button comments-button  theme-speech-bubble-large"]
+www.nytimes.com##DIV[class="Recirculation-recirculation--2BQm-"]
+www.nytimes.com##DIV[class="css-1reinx3 e12j3pa51"]
+www.nytimes.com##DIV[class="css-1ur45q4 e5d2tgl3"]
+www.nytimes.com##DIV[class="overlay"]
+www.nytimes.com##DIV[id="newsletter-promo"][class="newsletter-signup"]
+www.nytimes.com##DIV[id="sharetools-story"][class="sharetools theme-classic sharetools-init"]
+www.nytimes.com##DIV[id="upNext"]
+www.nytimes.com##LI[class="collection news-collection"]
+www.nytimes.com##LI[class="item-social"]
+www.nytimes.com##LI[class="item-weather"]
+www.nytimes.com##LI[class="user-subscriptions"]
+www.nytimes.com##NAV[class="ribbon-page-navigation next"]
+www.nytimes.com##NAV[class="ribbon-page-navigation previous"]
+www.nytimes.com##NAV[class="ribbon-page-navigation ribbon-page-navigation-has-data previous"]
+www.nytimes.com##OL[class="ribbon-menu"]
+www.nytimes.com##P[class="theme-comments"]
+www.nytimes.com##SECTION[class="module bundle-payflow-module"]
+www.nytimes.com##SECTION[class="whats-next nocontent"]
+www.nytimes.com##SECTION[id="related-combined-coverage"][class="related-combined-coverage nocontent robots-nocontent"]
+www.nytimes.com##SECTION[id="whats-next"]
+www.nytimes.com##UL[class="sharetools-menu"]
+www.okcupid.com##DIV[class="left_column"]
+www.okcupid.com##DIV[class="upgrade_ad delete_message receipts"]
+www.okcupid.com##DIV[class="upgrade_ad delete_message storage"]
+www.okcupid.com##DIV[class="upgrade_ad filters"]
+www.okcupid.com##DIV[id="action_bar_interior"][class="clearfix"]
+www.okcupid.com##DIV[id="event_display_container"]
+www.okcupid.com##DIV[id="improve_your_matches"][class="inline block"]
+www.okcupid.com##DIV[id="message_delete_intro"][class="oktooltip on_left has_heading light has_close open no_open_animation"]
+www.okcupid.com##DIV[id="recent_activity_block"]
+www.okcupid.com##DIV[id="user_pane"]
+www.okcupid.com##DIV[id="user_pane"][class="user_pane hasspotlight okphotos expanded control_group rush_hour hastips nothumbs doublebuttons noimp comfree rows_3 notrial lackspromo noreport"]
+www.okcupid.com##DIV[id="visit_button"][class="oknotice_grey"]
+www.okcupid.com##IMG[src="http://cdn.okccdn.com/media/img/template/image.png"]
+www.okcupid.com##P[id="pb_alist_pb_36"][class="page_banner right pink"]
+www.okcupid.com##SECTION[id="filter_controls"]
+www.okcupid.com##SPAN[id="nav_ratings_badge"][class="badge"]
+www.okcupid.com##SPAN[id="nav_visitors_badge"][class="badge"]
+www.onepagecrm.com##DIV[id="habla_topbar_div"][class="habla_topbar_div_normal hbl_pal_title_fg hbl_pal_title_bg habla_topbar_div_compressed "]
+www.periscope.tv##DIV[class="VideoOverlay-container"]
+www.pinterest.com##DIV[class="Nags Module"]
+www.pinterest.com##DIV[class="UnauthBanner ajax Module"]
+www.pinterest.com##DIV[class="UnauthBanner invert Module"]
+www.pinterest.com##DIV[class="message messageUnauth"]
+www.playingwithwords365.com##DIV[class="shr-publisher-185 shareaholic-show-on-load"]
+www.prepareforsuccess.org.uk##DIV[id="rightSideBar"]
+www.primelocation.com##DIV[id="featured_listings_wrapper"][class="clearfix"]
+www.psmag.com##DIV[class="span4"]
+www.psychologytoday.com##DIV[class="blogger-quote blogger-quote-block_1"]
+www.psychologytoday.com##DIV[id="block-apachesolr-search-mlt-002"][class="block-apachesolr-search-mlt-002 block block-apachesolr-search"]
+www.psychologytoday.com##DIV[id="block-pt-stats-most-popular"][class="block-pt-stats-most-popular block block-pt-stats"]
+www.psychologytoday.com##DIV[id="block-pt-td-td-top-search"][class="block-pt-td-td-top-search block block-pt-td"]
+www.psychologytoday.com##DIV[id="inline-content-bottom-left"]
+www.reshareworthy.com##UL[class="sidebar_list"]
+www.slate.com##DIV[class="rr-block"]
+www.slate.com##DIV[class="social social-with-popup"]
+www.slate.com##DIV[id="up-next-box"][class="row up-next"]
+www.slate.com##SECTION[class="large-tiles tiles"]
+www.stratoscale.com##DIV[id="reading-progressbar"][class="top-banner"]
+www.theatlantic.com##DIV[class="earthbox"]
+www.theatlantic.com##DIV[class="module-banner rotating-promo rotating-promo-num-0 right-rail-promo"]
+www.theatlantic.com##DIV[class="promoColumn"]
+www.theatlantic.com##SECTION[id="module-just-in"][class="new-module"]
+www.theatlantic.com##SECTION[id="module-most-popular"][class="new-module"]
+www.theatlantic.com##SECTION[id="more-in-module"][class="new-module"]
+www.theatlantic.com##SECTION[id="social-trending-module"]
+www.theatlantic.com##UL[class="skybox"]
+www.theguardian.com##A[class="button button--small button--secondary tone-colour "]
+www.theguardian.com##DIV[class="content__meta-container js-content-meta js-football-meta u-cf\n    \n    \n    \n    \n    \n    \n     content__meta-container--twitter\n    "]
+www.theguardian.com##DIV[class="js-right-most-popular right-most-popular right-most-popular--image component--rhc hide-on-childrens-books-site"]
+www.theguardian.com##DIV[class="meta__extras "]
+www.theguardian.com##DIV[class="selection-sharing"]
+www.theguardian.com##UL[class="component trackable-component undocked-share share-links floating"]
+www.theonion.com##DIV[class="newsletter-signup ad-block-alt  pinned"]
+www.theonion.com##DIV[class="player"]
+www.theonion.com##NAV[id="pagination"][class="pagination"][name="article:morenews"]
+www.theonion.com##SECTION[id="video-recirc"]
+www.theonion.com##SHARE-TOOLS[class="share share-widget square"]
+www.thrillist.com##DIV[class="related-container related-items-3x desktop first-position"]
+www.thrillist.com##DIV[id="content-right"]
+www.thunderboltlabs.com##DIV[class="footer-contact"]
+www.tripadvisor.co.uk##DIV[class="bx03 writeOwn"]
+www.tripadvisor.co.uk##DIV[class="detail_inline_war_cta_ajax_container"]
+www.tripadvisor.co.uk##DIV[id="owner_reg_cta"][class="bx03 owners"]
+www.understood.org##DIV[class="social-sharing-container"]
+www.unpetitoiseaudanslacuisine.com##DIV[id="csbwfs-left"][class="csbwfs-social-widget"]
+www.washingtonpost.com##DIV[class="modal-mask"]
+www.washingtonpost.com##DIV[id="menu-share-float"][class="bg-white none show-for-large"]
+www.washingtonpost.com##DIV[id="post_most"]
+www.washingtonpost.com##DIV[id="top-sharebar_5097"][class="top-sharebar-wrapper vertical-sticky-top-sharebar color-top"]
+www.washingtonpost.com##SECTION[id="right-rail"][class="col-xl-3 col-lg-4 col-md-4 col-sm-10 col-xs-10 col-xs-offset-1 col-sm-offset-1 col-md-offset-0 layout"]
+www.wired.com##DIV[class="inset-left-component fade-in-up inset-left-component--article"]
+www.wired.com##DIV[class="post-listing-component__wrapper"]
+www.wired.com##DIV[class="social-share-sidebar-component"]
+www.wired.com##DIV[id="post-nav"][class="fixed expanded visible"]
+www.wired.com##IFRAME[id="dsq-2"]
+www.wired.com##IMG[src="/images/cm/failsafe-images/cm-failsafe-box.png"]
+www.wsj.com##DIV[class="carousel-wrap full-width"]
+www.wsj.com##DIV[class="trending_videos"]
+www.wsj.com##UL[class="article_tools clearFix"]
+www.yahoo.com##DIV[class="share-button-container Grid-U NoTextDecoration"]
+www.yahoo.com##DIV[class="sidebar-container right"]
+www.yelp.com##DIV[class="js-war-widget war-widget--compose review review--with-sidebar"]
+www.yelp.com##DIV[id="write-next-review"][class="ysection clearfix no-js-hidden"]
+www.yelp.com##UL[class="iconed-list action-link-list"]
+www.youtube.com##DIV[class="ytp-endscreen-content"]
+www.youtube.com##DIV[id="items"][class="style-scope ytd-watch-next-secondary-results-renderer"]
+www.youtube.com##PAPER-BUTTON[class="style-scope yt-next-continuation"]
+www.youtube.com##PAPER-BUTTON[class="style-scope ytd-subscribe-button-renderer"]
+www.youtube.com##YTD-COMMENTS[id="comments"][class="style-scope ytd-watch"]
+www.youtube.com##YTD-TOGGLE-BUTTON-RENDERER[class="style-scope ytd-menu-renderer style-text force-icon-button"]
+www.youtube.com##YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER[class="style-scope ytd-watch"]
+www.zoopla.co.uk##A[href="https://www.hunters.com/"]
+wwws.mint.com##DIV[id="module-advice"][class="module module-advice clearfix"]
+yogajournal.com##.m-component-detail
+yogajournal.com##.m-fixedbottom-ad--slot.is-placeholder.not-size-a.not-size-b
+youtube.com###button
+youtube.com###logo
+youtube.com##.live-premiere-info-container
+youtube.com##.style-scope.ytd-comments
+youtube.com##.style-scope.ytd-comments-header-renderer
+youtube.com##.style-scope.ytd-guide-renderer
+youtube.com##.style-scope.ytd-menu-renderer.force-icon-button.style-text
+youtube.com##.style-scope.ytd-notification-topbar-button-renderer
+youtube.com##.style-scope.ytd-topbar-menu-button-renderer.style-default
+youtube.com##.view-count
+youtube.com##.ytd-watch-next-secondary-results-renderer
+youtube.com##.ytp-endscreen-content
+youtube.com#?#div#dismissable:-abp-has(*:-abp-contains(Recommended))
+zapier.com###hello-pop-up
+zillow.com##.Button-sc-1ki4y6n-0.PageScroll__ScrollIndicatorBtn-m4l7mg-1.eyDchP
+
+! 07-29-2019 https://airbnb.co.uk
+airbnb.co.uk##._1036pk4
+airbnb.co.uk##._1v8srd3
+
+! 07-29-2019 https://99u.com
+99u.com##DIV[id="sidebar"][class="wide-sidebar"]
+
+! 07-29-2019 https://androidauthority.com
+androidauthority.com##.widgets.clearfix
+
+! 07-29-2019 https://appadvice.com
+appadvice.com##IFRAME[id="dsq-2"]
+
+! 07-29-2019 https://apracticalwedding.com
+apracticalwedding.com##DIV[class="share sticky"]
+
+! 07-29-2019 https://atlassian.com
+atlassian.com##.post-progress
+
+! 07-29-2019 https://baekdal.com
+baekdal.com###Sidebar
+
+! 07-29-2019 https://belfasttelegraph.co.uk
+belfasttelegraph.co.uk##.column.single
+
+! 07-29-2019 https://binarybound.com
+binarybound.com##DIV[id="sidebar"][class="sidebar-left "]
+
+! 07-29-2019 https://bits.blogs.nytimes.com
+bits.blogs.nytimes.com##BUTTON[class="button comments-button  theme-speech-bubble"]
+bits.blogs.nytimes.com##NAV[id="ribbon"]
+bits.blogs.nytimes.com##SECTION[id="whats-next"][class="whats-next nocontent robots-nocontent"]
+
+! 07-29-2019 https://blog.inkdrop.info
+blog.inkdrop.info##.js-metabarMiddle.metabar-inner.u-marginAuto.u-maxWidth1032.u-flexCenter.u-justifyContentSpaceBetween.u-height65.u-xs-height56.u-paddingHorizontal20
+
+! 07-29-2019 https://blog.petflow.com
+blog.petflow.com##DIV[id="secondary"][class="widget-area"]
+
+! 07-29-2019 https://blog.wealthfront.com
+blog.wealthfront.com##.signup.fixed
+
+! 07-29-2019 https://bloomberg.com
+bloomberg.com###paywall-banner
+bloomberg.com##.banner__d5b8ebd5
+bloomberg.com##.navi-bar__button.navi-bar__button--subscribe.navi-subscribe-link
+bloomberg.com##.right-rail.right-rail-v2
+bloomberg.com##.zipr-recirc
+www.bloomberg.com##.content-accessories--left-rail
+
+! 07-29-2019 https://booking.com
+booking.com###b_tt_holder_2
+booking.com##.althotelsDiv2.use_sprites_no_back.featured_reviewer
+booking.com##.best-review-score.best-review-score-with_best_ugc_highlight
+booking.com##.fe_banner.fe_banner__accessible.fe_banner__scale_small.fe_banner__w-icon.fe_banner__red
+booking.com##.hprt-booking-summary-best-price
+booking.com##.hprt-green-condition
+booking.com##.map-card__title-genius-logo
+booking.com##.trackit.althotelsReview2.fixed_review_height.fixed_review_top_align.review_content
+booking.com##.tt_content
+booking.com##.urgency_message_red
+
+! 07-29-2019 https://businessinsider.com
+businessinsider.com##.tp-backdrop.tp-active
+
+! 07-29-2019 https://cnbc.com
+cnbc.com##.InlineVideo-inlineBackgroundImageContainer
+cnbc.com##.InlineVideo-videoFooter
+cnbc.com##.InlineVideo-wrapper
+cnbc.com##.PlaceHolder-endCard.PlaceHolder-inactive
+cnbc.com##.supra-wrapper
+cnbc.com##.undefined.PlayButton-container
+
+! 07-29-2019 https://stackexchange.com
+stackexchange.com###hot-network-questions
+stackexchange.com##.sidebar-related.module
+stackexchange.com###sidebar
+codereview.stackexchange.com###feed-link
+codereview.stackexchange.com###hot-network-questions
+codereview.stackexchange.com##.js-feed-link
+crypto.stackexchange.com###hot-network-questions
+dba.stackexchange.com##DIV[id="sidebar"][class="show-votes"]
+
+! 09/05/2020 https://duckduckgo.com
+duckduckgo.com##a.bg-clr--white.js-footer-card.footer__card:nth-of-type(1)
+duckduckgo.com##.footer
+
+! 09/05/2020 https://www.msn.com
+www.msn.com##.scrolled.head
+www.msn.com###twitter-widget-0
+www.msn.com###filmstripouter
+www.msn.com##.iconListHorizontal-DS-unknown1-1
+www.msn.com##body > .normalsection > .full-width > .sectioncontent
+
+! 09/05/2020 https://www.wsj.com
+www.wsj.com##.styles--border-bottom--2gLRRJBY.WSJTheme--border-bottom--3-zS1twS.WSJTheme--at-12u--2-BgqaUA.WSJTheme--ribbon--2rnxjr5y
+www.wsj.com##.WSJTheme--market-data--1PYRZ0cm
+www.wsj.com##.style--at12units--1JyeCtOD.style--hat--3jbDU4Tp
+www.wsj.com##.style--at12units--1tlOyQTc.style--stick-cust-nav--3aHA-Cgl.style--scrolled--2xGSkYLs.style--wsj-header--HY8l3WnB
+
+! 09/05/2020 https://duckduckgo.com
+duckduckgo.com##.js-header-aside.header--aside
+
+! 09/05/2020 https://www.nytimes.com
+www.nytimes.com##.css-12py7dg
+www.nytimes.com##.related-links-block
+www.nytimes.com###g-inlineguide-id
+www.nytimes.com###styln-coronavirus-menu
+www.nytimes.com###styln-covid-updates-world
+www.nytimes.com##.nytcp-opt.css-1kj7lfb
+www.nytimes.com###site-index
+www.nytimes.com##time
+www.nytimes.com##.newsStatus
+www.nytimes.com##.eqveam61.css-1qj0wac > .css-1slnf6i
+www.nytimes.com##.css-na047m
+www.nytimes.com###styln-briefing-block
+www.nytimes.com##.e5u916q0.css-batzk0
+
+! 09/05/2020 https://www.sciencemag.org
+www.sciencemag.org##.container--content.container > .secondary
+www.sciencemag.org##.paragraphs-item-related-articles
+www.sciencemag.org##.article__foot
+www.sciencemag.org##.container--promo.container
+
+! 09/05/2020 https://science.sciencemag.org
+science.sciencemag.org###coronalert > p
+
+! 10/05/2020 https://www.economist.com
+www.economist.com##.ds-share-list
+www.economist.com##.ds-masthead-nav-beta__item--call-to-action
+
+! 10/05/2020 https://www.nytimes.com
+www.nytimes.com##a.css-1rj8to8
+
+! 11/05/2020 https://imgur.com
+imgur.com###right-content
+
+! 11/05/2020 https://www.dropbox.com
+www.dropbox.com##.sc-comment-editor
+
+! 11/05/2020 https://www.forbes.com
+www.forbes.com##.left-rail
+www.forbes.com##.sticky-video.video-player
+
+! 11/05/2020 https://www.theverge.com
+www.theverge.com##.c-entry-hero__meta
+www.theverge.com##.l-article-body-segment.l-segment.l-sidebar-fixed > .l-col__sidebar
+www.theverge.com##.c-related-list
+www.theverge.com###comments
+
+! 11/05/2020 https://www.youtube.com
+www.youtube.com###chips
+www.youtube.com###chips-below
+www.youtube.com###contents > .ytd-secondary-search-container-renderer.style-scope
+
+! 11/05/2020 https://www.facebook.com
+||external-cdt1-1.xx.fbcdn.net/safe_image.php$image
+www.facebook.com###BuddylistPagelet
+www.facebook.com###FBPNewsAlert
+www.facebook.com###donatediv
+
+! 11/05/2020 https://insights.dice.com
+insights.dice.com##.sidebar
+insights.dice.com##.f1.dhi-callout
+insights.dice.com##.rp4wp-related-post
+insights.dice.com##.nav-links
+insights.dice.com###commentform
+
+! 11/05/2020 https://mail.google.com
+mail.google.com##.nn.bAw.nH
+
+! 11/05/2020 https://www.wsj.com
+www.wsj.com##.media-object-video--standard
+www.wsj.com###bottom-sticky-track
+www.wsj.com###join-the-conversation-desktop
+www.wsj.com###wsj-footer
+
+! 12/05/2020 https://www.chargedretail.co.uk
+www.chargedretail.co.uk##.us_widget_area_article_sidebar.l-sidebar
+www.chargedretail.co.uk##.to_next.l-navigation-item
+www.chargedretail.co.uk##.to_prev.l-navigation-item
+www.chargedretail.co.uk##.for_related.l-section
+
+! 12/05/2020 https://www.nytimes.com
+www.nytimes.com##.css-av634b
+
+! 13/05/2020 https://www.reuters.com
+www.reuters.com##.TrendingStories_container
+
+! 13/05/2020 https://imslp.org
+imslp.org###tabNaxos
+
+! 14/05/2020 https://www.nytimes.com
+www.nytimes.com###styln-hp-lbs
+
+! 15/05/2020 https://mail.google.com
+mail.google.com##.YM.YN.Y5
+
+! 15/05/2020 https://www.nytimes.com
+www.nytimes.com###nytslm
+
+! 16/05/2020 https://www.techwalla.com
+www.techwalla.com##.popup-mask
+
+! 17/05/2020 https://www.wsj.com
+www.wsj.com###webui-ribbon
+www.wsj.com##NAV[class^="style--at12units"]
+www.wsj.com##DIV[class^="WSJTheme--market-data-"]
+www.wsj.com##A[class^="WSJTheme--comment-count"]
+www.wsj.com##DIV[class^="WSJTheme--red-flashline"]
+www.wsj.com###wrapper-AD_RAIL1
+www.wsj.com##.style--secure-drop-tips--nCJRoTHA
+www.wsj.com###recommended-videos
+www.wsj.com###most-popular-articles
+www.wsj.com##.styles--margin-bottom-large--wa4U95NA.WSJTheme--margin-bottom-large--30x8UI8h > div:nth-of-type(3)
+
+! 17/05/2020 https://www.thespruceeats.com
+www.thespruceeats.com###video-footer_1-0
+www.thespruceeats.com##.article__post-footer
+www.thespruceeats.com##.footer__lower
+www.thespruceeats.com###dotdash-family-nav_1-0
+www.thespruceeats.com###link-list_1-0
+
+! 18/05/2020 https://mail.google.com
+mail.google.com##.YI
+
+! 18/05/2020 https://www.wsj.com
+www.wsj.com###video-center
+
+! 19/05/2020 https://www.lifewire.com
+www.lifewire.com###mntl-sc-block-featuredlink__link_1-0-5
+
+! 20/05/2020 https://www.nytimes.com
+www.nytimes.com##.cinemagraph_video
+
+! 22/05/2020 https://stackabuse.com
+stackabuse.com##.sidebar.col-md-4
+
+! 22/05/2020 https://www.loopinsight.com
+www.loopinsight.com###disqus_thread
+
+! 23/05/2020 https://superuser.com
+superuser.com###sidebar
+
+! 23/05/2020 https://www.wsj.com
+www.wsj.com###trending-videos
+www.wsj.com###trending-articles
+www.wsj.com###webui-article-tools
+www.wsj.com##div.hide8.hide4.at8-col8.col4.column:nth-of-type(4) > .zonedModule
+
+! 25/05/2020 https://www.amazon.fr
+www.amazon.fr###huc-first-upsell-row
+www.amazon.fr###huc-rest-upsell-row-1
+www.amazon.fr###rhf-shoveler
+
+! 26/05/2020 https://www.marmiton.org
+www.marmiton.org##.af-videoplayer
+
+! 26/05/2020 https://www.leaf.tv
+www.leaf.tv##.initial-content.view.article-view > .inner > .article-body > .article-right-rail
+www.leaf.tv##.sticky-video-player
+www.leaf.tv##div.article-view.partial-container:nth-of-type(3) > .inner > .article-body > .article-right-rail
+
+! 26/05/2020 https://www.kingarthurflour.com
+www.kingarthurflour.com##.recipe__instructions > .no-shares.js-kaf-share-widget.share
+
+! 26/05/2020 https://medium.com
+medium.com##.jm.n.jl
+
+! 26/05/2020 https://www.google.com
+www.google.com##.AUiS2
+
+###credential_picker_container
+
+! 27/05/2020 https://www.google.com
+www.google.com##.BmP5tf.uzjuFc
+
+! 27/05/2020 https://discuss.elastic.co
+discuss.elastic.co###banner
+discuss.elastic.co##.topic-timeline
+
+! 27/05/2020 https://stackoverflow.com
+stackoverflow.com##.new-login-form
+
+! 28/05/2020 https://www.nytimes.com
+www.nytimes.com###g-electionguide-id
+
+! 29/05/2020 https://www.sfchronicle.com
+www.sfchronicle.com##.asset_relatedlinks
+www.sfchronicle.com##.featuredArticles
+www.sfchronicle.com###spotim-comments
+
+! 29/05/2020 https://www.altituderando.com
+www.altituderando.com###colonne2
+www.altituderando.com###chamina-topobas
+www.altituderando.com###commentaires
+www.altituderando.com##aside:nth-of-type(1) > .container > .row > .col-md-8
+www.altituderando.com###topo-meme-commune
+www.altituderando.com###annonceurmatos-topobas
+www.altituderando.com###grandangle-topobas
+www.altituderando.com###colonne2
+
+! 30/05/2020 https://www.lemonde.fr
+www.lemonde.fr##.icon__label-alert
+www.lemonde.fr##.icon__label-live
+www.lemonde.fr###en-continu
+www.lemonde.fr##.right
+www.lemonde.fr##.left
+www.lemonde.fr##.message__offre--text
+www.lemonde.fr##.services
+www.lemonde.fr##li.Nav__item:nth-of-type(11)
+www.lemonde.fr##.icon__home
+
+! 01/06/2020 https://www.wsj.com
+www.wsj.com###trending_now
+
+! 02/06/2020 https://www.wsj.com
+www.wsj.com##.article__inset--wrap.article__inset--type-InsetRichText
+
+! 05/06/2020 https://www.convinceandconvert.com
+www.convinceandconvert.com##.minibox_subscribe_container
+www.convinceandconvert.com##.top_articles_container
+
+! 10/06/2020 https://hackernoon.com
+hackernoon.com##.mainNav
+
+! 10/06/2020 https://www.lastweekinaws.com
+www.lastweekinaws.com##.rmcloak
+
+! 10/06/2020 https://avc.com
+avc.com###usv-widget
+
+! 14/06/2020 https://book.lufthansa.com
+book.lufthansa.com###PANEL_LH_ID_REGISTRATION_TEASER
+book.lufthansa.com###BKGD\.content\.Travel\ Guide\ Teaser
+book.lufthansa.com##.T1LL
+
+! 14/06/2020 https://oureverydaylife.com
+oureverydaylife.com###jwplayer-section
+
+! 14/06/2020 https://wetransfer.com
+wetransfer.com##.panel--visible.panel--half.panel
+wetransfer.com###wallpaper-frame
+
+! 15/06/2020 https://mail.google.com
+mail.google.com###\:72i
+
+! 15/06/2020 https://makeappicon.com
+makeappicon.com##.sell-makeappicon
+makeappicon.com###apps
+
+! 15/06/2020 https://www.nytimes.com
+www.nytimes.com###c-col-editors-picks
+
+! 16/06/2020 https://www.cbc.ca
+www.cbc.ca##div.stickyContainer:nth-of-type(2)
+
+! 16/06/2020 https://www.nytimes.com
+www.nytimes.com##.e12j3pa51.css-1lzk3av
+
+! 17/06/2020 https://www.altituderando.com
+www.altituderando.com###allibert-topobas
+
+! 17/06/2020 https://www.forbes.com
+www.forbes.com##.right-rail
+
+! 18/06/2020 https://blog.congruentlabs.co
+blog.congruentlabs.co###disqus_thread
+
+! 18/06/2020 https://www.gearslutz.com
+www.gearslutz.com###top_ad_section
+www.gearslutz.com###showthread-bnb > .bnb.bnb--inline
+www.gearslutz.com###showthread-bnb
+www.gearslutz.com###showthread-category-vendors-bnb
+www.gearslutz.com###SupportUsBottom > [href^="/board/supportGearslutz.php"] > .support
+www.gearslutz.com##.footer-nav
+www.gearslutz.com###navbar.navbar-fixed
+www.gearslutz.com###site-notice-container
+www.gearslutz.com###threadrating
+www.gearslutz.com###supportUsTop
+www.gearslutz.com##.post-veteran
+www.gearslutz.com###showthread-category-vendors-firstpost-bnb
+www.gearslutz.com###post14807429 > .posting > .post_data > .postControls > .ratingContainer
+
+! 20/06/2020 https://www.gearslutz.com
+www.gearslutz.com###threadtools
+www.gearslutz.com###threadsearch
+www.gearslutz.com###navbar > nav
+www.gearslutz.com###navbar-sub-nav
+
+! 20/06/2020 https://computerhistory.org
+computerhistory.org##.related-articles
+computerhistory.org##.footer__bottom
+
+! global
+###disqus_thread
+##.disqus
+
+! 20/06/2020 https://arstechnica.com
+arstechnica.com###article-footer-wrap
+arstechnica.com###social-footer
+arstechnica.com##.header-highlight-link
+
+! 20/06/2020 https://www.speedshop.co
+www.speedshop.co###innocuous
+
+! 20/06/2020 https://onrails.blog
+onrails.blog##form.formkit-form
+
+! 20/06/2020 https://www.diabetes.co.uk
+www.diabetes.co.uk##.relatedarticles
+www.diabetes.co.uk###mostpop
+www.diabetes.co.uk##.diabetes-forum
+www.diabetes.co.uk##.ctajoin
+www.diabetes.co.uk###foot-top
+www.diabetes.co.uk###sidebar-wrap
+
+! 21/06/2020 https://dev.to
+dev.to###comments-container
+dev.to##.crayons-card--secondary.crayons-card.more-articles
+dev.to##a.crayons-link--contentful
+
+! 21/06/2020 https://www.bogleheads.org
+www.bogleheads.org##tr:nth-of-type(2) > .NoMobile
+www.bogleheads.org###rightside > div:nth-of-type(1)
+www.bogleheads.org###posts_table > tbody > tr:nth-of-type(2) > td
+www.bogleheads.org###posts_table > tbody > tr:nth-of-type(1) > td > strong
+www.bogleheads.org##.accordion
+
+! 24/06/2020 https://mail.google.com
+mail.google.com##.aHn
+
+! 24/06/2020 https://medium.com
+medium.com##.y.ni.r.nh
+
+! 26/06/2020 https://www.reuters.com
+www.reuters.com###hpvideostickycontainer
+
+! 26/06/2020 https://www.youtube.com
+www.youtube.com###chat
+
+! 01/07/2020 https://www.citationmachine.net
+www.citationmachine.net##.f8esjy6187t9
+
+! 08/07/2020 https://www.netflix.com
+www.netflix.com###row-4
+www.netflix.com###row-5
+www.netflix.com##div.lolomoRow_title_card.lolomoRow:nth-of-type(5)
+www.netflix.com###row-2 > .ptrack-container > .slider-hover-trigger-layer.rowContent > .slider
+www.netflix.com###row-3
+www.netflix.com###row-6
+www.netflix.com###row-7
+www.netflix.com##div.loadingTitle
+www.netflix.com##div.lolomoRow_title_card.lolomoRow:nth-of-type(39)
+
+! 09/07/2020 https://www.newyorker.com
+www.newyorker.com##.paywall-bar__expanded
+
+! 15/07/2020 https://www.sfgate.com
+www.sfgate.com##.s2nFloatBox
+www.sfgate.com##.article-sidebar
+
+! 15/07/2020 https://www.netflix.com
+www.netflix.com##.notifications-menu
+
+! 17/07/2020 https://www.europcar.com
+www.europcar.com##[id^="iframe-notification-"]
+www.europcar.com###stage
+
+! 19/07/2020 https://www.airbnb.co.uk
+www.airbnb.co.uk##[data-section-id="CROSS_SELL_DEFAULT"]
+
+! 20/07/2020 https://www.cultofmac.com
+www.cultofmac.com##.sidebar
+
+! 26/07/2020 https://www.zillow.com
+www.zillow.com##.mini-bubble-details strong
+www.zillow.com##.rounded.streamlined-property-label
+www.zillow.com##.hdp-gallery-home-info
+
+! 26/07/2020 https://www.redfin.com
+www.redfin.com##div.clickableHome.homePushpin.Pushpin:nth-of-type(61) > .PushpinContent > .inner-pushpin-content > .price
+
+! 26/07/2020 https://www.zillow.com
+www.zillow.com##.ds-chip > .ds-home-details-chip > .ds-price-change-address-row > .ds-price-change
+
+! 31/07/2020 https://www.redfin.com
+www.redfin.com##.Pill--hot
+www.redfin.com##.UrgencySection
+
+! 31/07/2020 https://listwithclever.com
+listwithclever.com##.InlineBasicCTA_mainContainer___CoCX
+
+! 12/08/2020 https://mashable.com
+mashable.com##.inline-video-seealso
+
+! 2020-08-12 https://mail.google.com
+mail.google.com###gm-boomerang-magic
+
+! 2020-08-12 https://www.psychologytoday.com
+www.psychologytoday.com###block-pt-stats-most-popular
+www.psychologytoday.com##.mx-lg-0.sidebar_first
+
+! 2020-08-15 https://psyche.co
+psyche.co##.izIjHd.styled__Wrapper-pvdjkw-0
+
+! 2020-08-18 https://www.netflix.com
+! hide just plot summary
+! www.netflix.com##.evidence-overlay p
+
+! hide whole overlay
+www.netflix.com##.evidence-overlay
+
+! 2020-08-18 https://imgur.com
+imgur.com##.Gallery-Sidebar
+imgur.com##.Gallery-EngagementBar
+
+! 2020-08-19 https://arstechnica.com
+arstechnica.com###social-footer
+
+! 2020-08-21 https://twitter.com
+twitter.com##.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-1uhd6vh.r-1uaug3w.css-1dbjc4n
+
+! 2020-08-21 https://www.nytimes.com
+www.nytimes.com##.css-16l7vy9
+www.nytimes.com##.css-bdfzry
+
+! 2020-08-21 https://www.businessinsider.com
+www.businessinsider.com##.popular-recirc
+
+! 2020-08-22 https://www.netflix.com
+www.netflix.com##div.lolomoRow_title_card
+
+! 2020-08-23 https://www.amazon.com
+www.amazon.com##.a-carousel
+www.amazon.com###gw-card-layout
+www.amazon.com###gw-content-grid
+www.amazon.com##.navFooterBackToTopText
+
+! 2020-08-23 https://www.eyebuydirect.com
+www.eyebuydirect.com###overlay
+www.eyebuydirect.com###popup-window
+
+! 2020-08-23 https://www.wsj.com
+www.wsj.com###markets
+
+! 2020-08-23 https://www.latimes.com
+www.latimes.com##.page-actions-sticky
+
+! 2020-08-24 https://www.amazon.com
+www.amazon.com##.adStripeBox > .prime-popover-link
+
+! 2020-08-24 https://www.linkedin.com
+www.linkedin.com###ember33
+www.linkedin.com###ember68
+www.linkedin.com##.msg-overlay-bubble-header
+www.linkedin.com##.msg-overlay-list-bubble__content--scrollable.msg-overlay-list-bubble__content.scrollable
+www.linkedin.com##.feed-follows-module
+www.linkedin.com##.right-rail
+www.linkedin.com##.share-box-feed-entry__wrapper
+
+! 2020-08-25 https://www.lemonde.fr
+www.lemonde.fr##.paywall__articles
+www.lemonde.fr###js-engagement-banner
+
+! 2020-08-26 https://www.womenshealthmag.com
+www.womenshealthmag.com##.poll
+
+! 2020-08-26 https://footwearnews.com
+footwearnews.com##.pmc-contextual-player
+footwearnews.com##.pmc-sticky-sidebar
+
+! 2020-08-26 https://cdtalaw.com
+cdtalaw.com##.mkd-post-info-column
+
+! 2020-08-26 https://www.instacart.com
+www.instacart.com##.pulse
+
+! 2020-08-26 https://www.latimes.com
+www.latimes.com###reg-overlay
+
+! 2020-08-26 https://www.netflix.com
+www.netflix.com##.jaw-play-hitzone
+
+! 2020-08-27 https://www.netflix.com
+www.netflix.com##.background .nf-player-container
+
+! 2020-08-27 https://www.theregister.com
+www.theregister.com###adtoniq-msgr-bar
+www.theregister.com###right-col
+www.theregister.com##.promo_article
+www.theregister.com###read_more_on
+www.theregister.com###article_newsletter_signup
+
+! 2020-08-27 https://www.nytimes.com
+www.nytimes.com##[data-testid="recirculation"]
+
+! 2020-08-27 https://www.reddit.com
+www.reddit.com###TrendingPostsContainer
+
+! 2020-08-27 https://www.google.com
+www.google.com##.xpdopen
+
+! 2020-08-27 https://www.kqed.org
+www.kqed.org##.routes-Site-routes-Post-components-Post-components-PostEmailSignup-___PostEmailSignup__postEmailSignup
+
+! 2020-08-27 https://apnews.com
+apnews.com###offer-0-AjrX1
+
+! 2020-08-27 https://www.google.com
+www.google.com##.kno-ftr
+www.google.com###bres
+
+! 2020-08-27 https://thehill.com
+thehill.com##.jw-reset.jw-video
+
+! 2020-08-27 https://www.reuters.com
+www.reuters.com###breakingNewsContainer
+
+! 2020-08-28 https://www.independent.co.uk
+www.independent.co.uk##.sidebar
+www.independent.co.uk##.gallery
+
+! 2020-08-28 https://www.thrillist.com
+www.thrillist.com##.right-rail__group--initial.right-rail__group
+
+! 2020-08-28 https://www.outsideonline.com
+www.outsideonline.com##.donation-module
+
+! 2020-08-28 https://www.mensjournal.com
+www.mensjournal.com###right-rail-ad-slot-content-top
+
+! 2020-08-29 https://www.nasdaq.com
+www.nasdaq.com##div.body:nth-of-type(2) > .body__right-rail
+
+! 2020-08-30 https://www.zillow.com
+www.zillow.com##.zillow-offers-upsell-wrapper
+
+! 2020-08-30 https://www.redfin.com
+www.redfin.com##.Pill--counter
+
+! 2020-08-30 https://www.express.co.uk
+www.express.co.uk##.right-column
+
+! 2020-08-30 https://www.redfin.com
+www.redfin.com##.partnerProgramAd
+www.redfin.com##.HigherSimilarsSection
+
+! 2020-08-30 https://old.reddit.com
+old.reddit.com##.read-next
+
+! 2020-08-31 https://mail.google.com
+mail.google.com##.msg
+
+! 2020-08-31 https://www.usatoday.com
+www.usatoday.com##.teal-video-wrap
+www.usatoday.com##.gnt_em_vp_c
+
+! 2020-08-31 https://www.santafenewmexican.com
+www.santafenewmexican.com###paging-next-a74dc838-a35f-5000-b7da-0aebd21f8897 > .item.animate > .inner > .overlay
+www.santafenewmexican.com###paging-next-a74dc838-a35f-5000-b7da-0aebd21f8897 > .item.animate
+www.santafenewmexican.com##.item.animate
