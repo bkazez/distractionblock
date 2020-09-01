@@ -1,6 +1,6 @@
 # distractionblock
 
-Filter list for AdBlock, AdBlock Plus, and uBlock Origin that attempts to block "sticky" features of web sites. This includes:
+Filter list for AdBlock, AdBlock Plus, and uBlock Origin that blocks "sticky" features of web sites. This includes:
 
 * Recommended videos/articles/products/content
 * Urgency messaging (3 rooms left, 25 users are looking at this, etc.)
