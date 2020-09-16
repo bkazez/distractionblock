@@ -1272,3 +1272,134 @@ www.youtube.com##ytd-browse
 www.youtube.com###dismissable:-abp-has(#title:-abp-contains(Related))
 www.youtube.com##.ytd-item-section-renderer:-abp-has(> #header-container #title-text:-abp-contains(related))
 
+
+! 2020-09-06 https://www.msn.com
+www.msn.com###stickyTitleBar
+
+! 2020-09-06 https://www.wsj.com
+www.wsj.com###webui_newsletter_inset
+
+! 2020-09-06 https://www.facebook.com
+www.facebook.com##.uiStreamStory
+
+! 2020-09-06 https://www.theoaklandpress.com
+www.theoaklandpress.com##.main-sidebar-wrap
+
+! 2020-09-06 https://www.visitoakland.com
+www.visitoakland.com##.special-alert
+
+! 2020-09-07 https://www.benkuhn.net
+www.benkuhn.net##.related
+www.benkuhn.net##.comments
+
+! 2020-09-07 https://www.smithsonianmag.com
+www.smithsonianmag.com##.sidebar
+www.smithsonianmag.com##.recommended-videos
+www.smithsonianmag.com##.magazine-signup-form
+www.smithsonianmag.com##.bio > .more
+www.smithsonianmag.com##.newsletter-signup-article-wrapper
+www.smithsonianmag.com##.nav-subscribe-box
+
+! 2020-09-08 https://qz.com
+qz.com##.dbdf0
+qz.com##._6e27b
+
+! 2020-09-09 https://www.netflix.com
+www.netflix.com##[href="/Kids"]
+
+! 2020-09-09 https://www.amazon.com
+www.amazon.com##.fasttrackcountdown
+
+! 2020-09-09 https://www.sfchronicle.com
+www.sfchronicle.com###articleRibbon
+www.sfchronicle.com##.mostPopular
+www.sfchronicle.com###subscription
+
+! 2020-09-09 https://www.carvana.com
+www.carvana.com##.SocialProofstyles__Section-sc-9xgboz-0
+
+! 2020-09-09 https://www.cnet.com
+www.cnet.com###videoPlayer1
+
+! 2020-09-10 https://mint.intuit.com
+mint.intuit.com##.promotions-personalized-offers-ui
+
+! 2020-09-10 https://www.frugalwoods.com
+www.frugalwoods.com###comments
+
+! 2020-09-10 https://www.sfchronicle.com
+www.sfchronicle.com##.media-video
+
+! 2020-09-10 https://lithub.com
+lithub.com##.sidebar_widget
+lithub.com###post_more_wrapper
+
+! 2020-09-10 https://www.caranddriver.com
+www.caranddriver.com##.end-of-content-playlist
+www.caranddriver.com##.feed-transporter-with-ads
+www.caranddriver.com##.transporter
+
+! 2020-09-10 https://www.edmunds.com
+www.edmunds.com##.CarcodeWidgetContainer
+
+! 2020-09-10 https://priuschat.com
+priuschat.com##.sidebar
+
+! 2020-09-10 https://www.sftoyota.com
+www.sftoyota.com##.js-announce-popups-container
+
+! 2020-09-11 https://www.francetvinfo.fr
+www.francetvinfo.fr###rightColumn
+
+! 2020-09-11 https://www.nytimes.com
+www.nytimes.com##.g-tab-fader
+
+! 2020-09-11 https://www.elpasotimes.com
+www.elpasotimes.com##.teal-video-wrap
+www.elpasotimes.com##.gnt_em_vp_c
+
+! 2020-09-11 https://xkcd.com
+xkcd.com###xkcdBanner
+
+! 2020-09-11 https://www.huffpost.com
+www.huffpost.com##.vdb_player
+
+! 2020-09-11 https://www.caranddriver.com
+www.caranddriver.com##.embed-poll
+www.caranddriver.com###piano-inline
+
+! 2020-09-11 https://www.edmunds.com
+www.edmunds.com##.CarcodeWidgetContainer
+
+! 2020-09-11 https://www.newyorker.com
+www.newyorker.com##.nav-cta
+www.newyorker.com##.cne-interlude-container
+
+! 2020-09-12 https://medium.com
+medium.com##.s.ov.ou
+
+! 2020-09-15 https://durmonski.com
+durmonski.com###progress
+
+! 2020-09-15 https://www.npr.org
+www.npr.org##section.story-recommendations
+
+! 2020-09-15 https://www.nytimes.com
+www.nytimes.com##.background-VrKEz3Uc
+
+! 2020-09-15 https://www.bbc.com
+www.bbc.com##.features-and-analysis__stories
+www.bbc.com##.column--secondary
+
+! 2020-09-15 https://www.linkedin.com
+www.linkedin.com##.notification-badge
+
+! 2020-09-16 https://www.foxnews.com
+www.foxnews.com##.promo-watch-live
+
+! 2020-09-16 https://www.msnbc.com
+www.msnbc.com##.live-video-promo
+www.msnbc.com##.mini-player
+
+! 2020-09-17 https://microclimate.com
+microclimate.com###ck_sp_m-cartkit-shop-pop
