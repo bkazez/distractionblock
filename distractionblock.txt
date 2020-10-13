@@ -1403,3 +1403,79 @@ www.msnbc.com##.mini-player
 
 ! 2020-09-17 https://microclimate.com
 microclimate.com###ck_sp_m-cartkit-shop-pop
+
+! 2020-09-18 https://www.youtube.com
+www.youtube.com##.ytd-popup-container
+
+! 2020-09-19 https://sci-hub.tw
+sci-hub.tw###minime
+
+! 2020-09-19 https://www.westoftheloop.com
+www.westoftheloop.com##.widget-area.sidebar-primary.sidebar
+
+! 2020-09-20 https://www.bloomberg.com
+www.bloomberg.com##.postr-recirc
+
+! 2020-09-20 https://www.foxnews.com
+www.foxnews.com##.video-container
+www.foxnews.com##.sticky-video
+
+! 2020-09-20 https://www.bbc.com
+www.bbc.com##.extracted__channel-link
+
+! 2020-09-21 https://www.foodfirefriends.com
+www.foodfirefriends.com##.share
+
+! 2020-09-21 https://mcmansionhell.com
+mcmansionhell.com##.tmblr-iframe--follow-teaser
+
+! 2020-09-21 https://nypost.com
+nypost.com###web-alerts-modal
+nypost.com###sidebar-primary
+
+! 2020-09-23 https://www.tumblr.com
+www.tumblr.com##.discover-content
+
+! 2020-09-25 https://www.tumblr.com
+www.tumblr.com##article
+
+! 2020-10-02 https://www.quantamagazine.org
+www.quantamagazine.org##.sidebar__poster__desktop
+www.quantamagazine.org##.post__aside--right.hide-on-print
+www.quantamagazine.org##.post__title__actions
+www.quantamagazine.org##.post__sidebar__content
+www.quantamagazine.org##.post__category.outer
+www.quantamagazine.org###newsletter
+www.quantamagazine.org##.footer__section.outer
+
+! 2020-10-02 https://www.dailymail.co.uk
+www.dailymail.co.uk##.linkro-wocc
+www.dailymail.co.uk##.beta
+www.dailymail.co.uk###articleIconLinksContainer
+www.dailymail.co.uk##.has-button-share
+
+! 2020-10-08 https://www.ft.com
+www.ft.com###site-content > .share-nav
+
+! 2020-10-11 https://www.fastcompany.com
+www.fastcompany.com##.post__promotion
+
+! 2020-10-11 https://i-d.vice.com
+i-d.vice.com##.up-next
+
+! 2020-10-13 https://www.fastcompany.com
+www.fastcompany.com##.social__list
+www.fastcompany.com##.article-recirc-by-tag
+
+! 2020-10-14 https://www.nytimes.com
+www.nytimes.com##g > rect
+
+! 2020-10-14 https://www.amazon.com
+www.amazon.com###huc-first-upsell-row
+www.amazon.com###huc-rest-upsell-row-1
+
+! 2020-10-14 https://www.theguardian.com
+www.theguardian.com##.remote-banner.site-message--banner
+www.theguardian.com###more-on-this-story
+www.theguardian.com##.js-most-popular-footer
+www.theguardian.com##.js-aside-slot-container
