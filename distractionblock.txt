@@ -1268,7 +1268,6 @@ www.redfin.com##.hotness-banner-container
 www.redfin.com##.ShareButtonCopFlyoutWrapper
 
 ! 2020-09-05 https://www.youtube.com
-www.youtube.com##ytd-browse
 www.youtube.com###dismissable:-abp-has(#title:-abp-contains(Related))
 www.youtube.com##.ytd-item-section-renderer:-abp-has(> #header-container #title-text:-abp-contains(related))
 
